@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-04T22:49:51.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="ev9Z_ANx1YAwI5P3nXQe" version="18.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-04T23:02:41.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="kJ8GUg31CvCgsVTkdHPC" version="18.2.1" type="github" pages="3">
   <diagram id="KhV4W1xw8XISt0uVxtHa" name="Республиканские">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -346,19 +346,19 @@
           <mxGeometry x="840" y="-2260" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-3" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Очки в индивидуальных видах программы начисляются при условии выполнения участниками норматива &lt;b&gt;КМС РБ&lt;/b&gt; по показанным результатам первым 14 спортсменам, входящим в состав команд без учета результатов спортсменов, участвующих в личном первенстве&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-1520" width="680" height="50" as="geometry" />
+          <mxGeometry x="80" y="-1170" width="680" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-4" value="&lt;span style=&quot;background-color: initial;&quot;&gt;1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-1520" width="50" height="280" as="geometry" />
+          <mxGeometry x="20" y="-1170" width="50" height="280" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-5" value="Общекомандное первенство среди команд областей и г. Минска определяется по наибольшей сумме очков, набранных участниками команды во всех индивидуальных видах программы и в эстафетном плавании при условии, что в зачет команды идут результаты:&lt;br&gt;&lt;ul&gt;&lt;li&gt;показанные одним спортсменом команды не более чем в трех индивидуальных видах программы в соответствии с технической заявкой;&lt;/li&gt;&lt;li&gt;не более двух спортсменов команды в каждом виде программы и по одной эстафете (отдельно у юниоров и юниорок).&lt;/li&gt;&lt;/ul&gt;При равенстве очков в командном первенстве преимущество отдается команде, имеющей большее количество 1-х и т.д. мест в индивидуальных видах программы." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-1460" width="680" height="160" as="geometry" />
+          <mxGeometry x="80" y="-1110" width="680" height="160" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-6" value="За установление каждого рекорда Республики Беларусь, выполнение норматива мастера спорта Республики Беларусь, мастера спорта Республики Беларусь международного класса начисляются дополнительные очки (см. главу 10 &quot;Определение победителей&#39;)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-1290" width="680" height="50" as="geometry" />
+          <mxGeometry x="80" y="-940" width="680" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-7" value="&lt;span style=&quot;background-color: initial;&quot;&gt;2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-1220" width="50" height="280" as="geometry" />
+          <mxGeometry x="20" y="-870" width="50" height="280" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-8" value="&lt;ul&gt;&lt;li&gt;XVI Европейский Юношеский Олимпийский фестиваль (23-30.07.2022, г.Банска-Бистрица, Словакия)&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1410" y="-2160" width="620" height="100" as="geometry" />
@@ -373,13 +373,13 @@
           <mxGeometry x="840" y="-2160" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-12" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Очки в индивидуальных видах программы начисляются при условии выполнения участниками норматива &lt;b&gt;1 спортивного разряда&lt;/b&gt; по показанным результатам первым 14 спортсменам, входящим в состав команд без учета результатов спортсменов, участвующих в личном первенстве&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-1220" width="680" height="50" as="geometry" />
+          <mxGeometry x="80" y="-870" width="680" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-13" value="Общекомандное первенство среди команд областей и г. Минска определяется по наибольшей сумме очков, набранных участниками команды во всех индивидуальных видах программы и в эстафетном плавании при условии, что в зачет команды идут результаты:&lt;br&gt;&lt;ul&gt;&lt;li&gt;показанные одним спортсменом команды не более чем в трех индивидуальных видах программы в соответствии с технической заявкой;&lt;/li&gt;&lt;li&gt;не более двух спортсменов команды в каждом виде программы, а также результат одной эстафеты (раздельно у юниорок и юниоров)&lt;/li&gt;&lt;/ul&gt;При равенстве очков в командном первенстве преимущество отдается команде, имеющей большее количество 1-х и т.д. мест в индивидуальных видах программы." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-1160" width="680" height="160" as="geometry" />
+          <mxGeometry x="80" y="-810" width="680" height="160" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-14" value="За установление каждого рекорда Республики Беларусь, выполнение норматива мастера спорта Республики Беларусь, мастера спорта Республики Беларусь международного класса начисляются дополнительные очки (см. главу 10 &quot;Определение победителей&#39;)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-990" width="680" height="50" as="geometry" />
+          <mxGeometry x="80" y="-640" width="680" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-15" value="&lt;ul&gt;&lt;li&gt;Чемпионат Мира (13-29.05.2022, г.Фукуока, Япония)&lt;/li&gt;&lt;li&gt;Всемирная Универсиада (26.06 - 7.07.2022, г.Чэнду, КНР)&lt;/li&gt;&lt;li&gt;Чемпионат Европы по плаванию (11-17.08.2022, г.Рим, Италия)&lt;/li&gt;&lt;li&gt;Чемпионат Европы по плаванию среди юниоров (6-11.07.2022, по назначению)&lt;/li&gt;&lt;li&gt;Чемпионат Мира по плаванию среди юниоров (24-29.08.2022, Казань)&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1410" y="-2060" width="620" height="100" as="geometry" />
@@ -394,19 +394,19 @@
           <mxGeometry x="840" y="-2060" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-19" value="&lt;span style=&quot;background-color: initial;&quot;&gt;3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-920" width="50" height="280" as="geometry" />
+          <mxGeometry x="20" y="-570" width="50" height="280" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-21" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Очки в индивидуальных видах программы начисляются при условии выполнения участниками норматива &lt;b&gt;КМС РБ&lt;/b&gt; по показанным результатам первым 14 спортсменам, входящим в состав команд без учета результатов спортсменов, участвующих в личном первенстве&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-920" width="680" height="50" as="geometry" />
+          <mxGeometry x="80" y="-570" width="680" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-22" value="Общекомандное первенство среди команд областей и г. Минска определяется по наибольшей сумме очков, набранных участниками команды во всех индивидуальных видах программы и в эстафетном плавании при условии, что в зачет команды идут результаты:&lt;br&gt;&lt;ul&gt;&lt;li&gt;показанные одним спортсменом команды не более чем в трех индивидуальных видах программы в соответствии с технической заявкой;&lt;/li&gt;&lt;li&gt;не более двух спортсменов команды в каждом виде программы и одной эстафете (отдельно&amp;nbsp;у мужчин и женщин)&lt;/li&gt;&lt;/ul&gt;При равенстве очков в командном первенстве преимущество отдается команде, имеющей большее количество 1-х и т.д. мест в индивидуальных видах программы." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-860" width="680" height="160" as="geometry" />
+          <mxGeometry x="80" y="-510" width="680" height="160" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-23" value="За установление каждого рекорда Республики Беларусь, выполнение норматива &lt;b&gt;мастера спорта Республики Беларусь международного класса&lt;/b&gt; начисляются дополнительные очки (см. главу 10 &quot;Определение победителей&#39;)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-690" width="680" height="50" as="geometry" />
+          <mxGeometry x="80" y="-340" width="680" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-24" value="&lt;span style=&quot;background-color: initial;&quot;&gt;4&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-620" width="50" height="390" as="geometry" />
+          <mxGeometry x="20" y="-270" width="50" height="390" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-25" value="3 разряд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="-1960" width="90" height="100" as="geometry" />
@@ -421,31 +421,31 @@
           <mxGeometry x="840" y="-1960" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-30" value="Очки начисляются спортсменам на каждой дистанции, при условии выполнения 3-го спортивного разряда по таблице (см. &#39;Таблица 6.1 оценки результатов)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-620" width="680" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LFJr_qgW0Npn4mGT8CEz-31" value="Личное место участника соревнований в многоборье определяется по сумме очков, набранных на трех дистанциях.&lt;br&gt;При равенстве очков преимущество имеет спортсмен, показавший более высокий результат на дистанции 200 м комплексное плавание." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-570" width="680" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LFJr_qgW0Npn4mGT8CEz-32" value="Общекомандное первенство среди команд областей и г. Минска определяется по наибольшей сумме очков, набранных участниками соревнований во всех индивидуальных видах программы и в эстафетном плавании (по одной в каждом виде эстафет).&lt;br&gt;При равенстве очков в командном первенстве преимущество отдается команде, имеющей большее количество 1-х и т.д. мест в индивидуальных видах программы." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-500" width="680" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="LFJr_qgW0Npn4mGT8CEz-34" value="Таблица оценки результатов (в очках) первенства РБ в программе соревнований &quot;Весёлый дельфин&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-410" width="680" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LFJr_qgW0Npn4mGT8CEz-35" value="1 место = 70&lt;br&gt;2 место = 69&lt;br&gt;3 место = 68" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-370" width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LFJr_qgW0Npn4mGT8CEz-42" value="68 место = 3&lt;br&gt;69 место = 2&lt;br&gt;70 место и далее = 1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-370" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LFJr_qgW0Npn4mGT8CEz-43" value="...&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-370" width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LFJr_qgW0Npn4mGT8CEz-44" value="Результаты показанные в эстафетном плавании оцениваются с коэффициентом 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="-270" width="680" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-31" value="Личное место участника соревнований в многоборье определяется по сумме очков, набранных на трех дистанциях.&lt;br&gt;При равенстве очков преимущество имеет спортсмен, показавший более высокий результат на дистанции 200 м комплексное плавание." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-220" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-32" value="Общекомандное первенство среди команд областей и г. Минска определяется по наибольшей сумме очков, набранных участниками соревнований во всех индивидуальных видах программы и в эстафетном плавании (по одной в каждом виде эстафет).&lt;br&gt;При равенстве очков в командном первенстве преимущество отдается команде, имеющей большее количество 1-х и т.д. мест в индивидуальных видах программы." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-150" width="680" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-34" value="Таблица оценки результатов (в очках) первенства РБ в программе соревнований &quot;Весёлый дельфин&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-60" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-35" value="1 место = 70&lt;br&gt;2 место = 69&lt;br&gt;3 место = 68" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-20" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-42" value="68 место = 3&lt;br&gt;69 место = 2&lt;br&gt;70 место и далее = 1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-20" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-43" value="...&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-20" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-44" value="Результаты показанные в эстафетном плавании оцениваются с коэффициентом 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="680" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-45" value="&lt;span style=&quot;background-color: initial;&quot;&gt;5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-210" width="50" height="440" as="geometry" />
+          <mxGeometry x="20" y="140" width="50" height="440" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-46" value="2 разряд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="-1860" width="90" height="100" as="geometry" />
@@ -466,37 +466,37 @@
           <mxGeometry x="1410" y="-1860" width="620" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-52" value="Каждый участник имеет право участвовать не более чем в трех индивидуальных видах программы, а также в эстафетном плавании" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-210" width="680" height="40" as="geometry" />
+          <mxGeometry x="80" y="140" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-53" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Очки в индивидуальных видах программы начисляются при условии выполнения норматива &lt;b&gt;2-го спортивного разряда&lt;/b&gt;&amp;nbsp;по показанным результатам первым 28 спортсменам, входящим в состав команд без учета результатов спортсменов, участвующих в личном первенстве&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-160" width="680" height="50" as="geometry" />
+          <mxGeometry x="80" y="190" width="680" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-55" value="В каждом виде программы в зачет командного первенства может быть заявлено не более двух спортсменов и по одной эстафете (отдельно у юниорок и юниоров)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-100" width="680" height="40" as="geometry" />
+          <mxGeometry x="80" y="250" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-57" value="Общекомандное первенство определяется по наибольшей сумме набранных очков участниками соревнований во всех видах программы среди команд-участниц." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-50" width="680" height="40" as="geometry" />
+          <mxGeometry x="80" y="300" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-60" value="При равенстве очков в командном первенстве преимущество отдается команде, имеющей большее количество 1-х и т.д. мест в индивидуальных видах программы." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="200" width="680" height="30" as="geometry" />
+          <mxGeometry x="80" y="550" width="680" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-61" value="Таблица оценки (в очках) езультатов соревнований &quot;Спартакиада детско-юношеских спортивных школ РБ&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" width="680" height="40" as="geometry" />
+          <mxGeometry x="80" y="350" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-62" value="1 место = 40&lt;br&gt;2 место = 35&lt;br&gt;3 место = 30&lt;br&gt;4 место = 28&lt;br&gt;5 место = 26&lt;br&gt;6 место = 24&lt;br&gt;7 место = 22" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="340" height="110" as="geometry" />
+          <mxGeometry x="80" y="390" width="340" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-65" value="&lt;b&gt;[8 .. 28 место: n место = 21 + 8 - n]&lt;br&gt;&lt;br&gt;&lt;/b&gt;8 место = 21&lt;br&gt;9 место = 20&lt;br&gt;...&lt;br&gt;27 место = 2&lt;br&gt;28 место = 1&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="420" y="40" width="340" height="110" as="geometry" />
+          <mxGeometry x="420" y="390" width="340" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-69" value="Результаты показанные в эстафетном плавании оцениваются с коэффициентом 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="150" width="680" height="40" as="geometry" />
+          <mxGeometry x="80" y="500" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-70" value="&lt;b&gt;[1 .. 70 место: n место = 70 + 1 - n]&lt;br&gt;[71 .. место: n место = 1]&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-310" width="680" height="40" as="geometry" />
+          <mxGeometry x="80" y="40" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-71" value="&lt;span style=&quot;background-color: initial;&quot;&gt;6&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="20" y="250" width="50" height="320" as="geometry" />
+          <mxGeometry x="20" y="600" width="50" height="320" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-72" value="29 человек&lt;br&gt;&lt;ul&gt;&lt;li&gt;24 спортсмена: 12 мужчин, 12 женщин&lt;/li&gt;&lt;li&gt;2 тренера&lt;/li&gt;&lt;li&gt;1 представитель&lt;/li&gt;&lt;li&gt;2-е судей&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1090" y="-1760" width="320" height="100" as="geometry" />
@@ -511,22 +511,22 @@
           <mxGeometry x="930" y="-1760" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-76" value="Каждый спортсмен&amp;nbsp;имеет право стартовать&amp;nbsp;в неограниченном количестве индивидуальных видов программы и эстафетах" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="250" width="680" height="40" as="geometry" />
+          <mxGeometry x="80" y="600" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-77" value="КМС" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="-1760" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-78" value="Очки в индивидуальных видах программы начисляются при условии выполнения норматива кандидата в мастера спорта Республики Беларусь по показанным результатам первым 14 спортсменам, входящим в состав команд без учета результатов спортсменов, участвующих в личном первенстве (см. главу 10 &quot;Определение победителей “)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="300" width="680" height="50" as="geometry" />
+          <mxGeometry x="80" y="650" width="680" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-79" value="&lt;div&gt;Общекомандное первенство среди команд областей и г.Минска определяется по наибольшей сумме очков, набранных участниками соревнований во всех индивидуальных видах программы и в эстафетном плавании при условии, что в зачет команды идут результаты:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;показанные одним спортсменом команды не более чем в трех индивидуальных видах программы в соответствии с технической заявкой;&lt;/li&gt;&lt;li&gt;не более двух спортсменов команды в каждом виде программы и одной эстафеты (отдельно у женщин и мужчин).&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;При равенстве очков в командном первенстве преимущество отдастся команде, имеющей большее количество 1-х и т.д. мест в индивидуальных видах программы.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="360" width="680" height="160" as="geometry" />
+          <mxGeometry x="80" y="710" width="680" height="160" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-80" value="За установление каждого рекорда Республики Беларусь, выполнение норматива мастера спорта Республики Беларусь международного класса начисляются дополнительные очки (см. главу 10 &quot;Определение победителей)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="530" width="680" height="40" as="geometry" />
+          <mxGeometry x="80" y="880" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-81" value="&lt;span style=&quot;background-color: initial;&quot;&gt;7&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="20" y="590" width="50" height="350" as="geometry" />
+          <mxGeometry x="20" y="940" width="50" height="350" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-82" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Чемпионат Мира на короткой воде (17-22.12.2022, г. Казань, Россия)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1410" y="-1660" width="620" height="100" as="geometry" />
@@ -538,7 +538,7 @@
           <mxGeometry x="930" y="-1660" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-85" value="В финальных заплывах допускается участие не более двух зарубежных спортсменов" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="590" width="680" height="30" as="geometry" />
+          <mxGeometry x="80" y="940" width="680" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-86" value="КМС" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="-1660" width="90" height="100" as="geometry" />
@@ -547,16 +547,16 @@
           <mxGeometry x="750" y="-1660" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-88" value="&lt;div&gt;Очки в индивидуальных видах программы начисляются при условии выполнения норматива кандидата в мастера спорта Республики Беларусь по показанным результатам первым 14 спортсменам, входящим в состав команд без учета результатов спортсменов, участвующих в личном первенстве (см. главу 10 &quot;Определение победителей44}.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="670" width="680" height="50" as="geometry" />
+          <mxGeometry x="80" y="1020" width="680" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-89" value="&lt;div&gt;Каждый спортсмен имеет право участвовать в неограниченном количестве индивидуальных видов программы и в эстафетах.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="630" width="680" height="30" as="geometry" />
+          <mxGeometry x="80" y="980" width="680" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-90" value="&lt;div&gt;Обшекомандное первенство среди команд областей и г. Минска определяется по наибольшей сумме очков, набранных участниками соревнований во всех индивидуальных видах программы и в эстафетном плавании при условии, что в зачет команды идут результаты:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;показанные одним спортсменом не более чем в трех индивидуальных видах программы в соответствии с технической заявкой;&lt;/li&gt;&lt;li&gt;не более двух спортсменов команды в каждом виде программы и одной эстафеты (отдельно у женщин и мужчин).&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;При равенстве очков в командном первенстве преимущество отдается команде, имеющей большее количество 1-х и т.д. мест в индивидуальных видах программы.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="730" width="680" height="170" as="geometry" />
+          <mxGeometry x="80" y="1080" width="680" height="170" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-91" value="&lt;div&gt;За установление каждого рекорда Республики Беларусь, выполнение норматива мастера спорта Республики Беларусь международного класса начисляются дополнительные очки (см. главу 10 &quot;Определение победителей44).&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="910" width="680" height="30" as="geometry" />
+          <mxGeometry x="80" y="1260" width="680" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-92" value="29 человек&lt;br&gt;&lt;ul&gt;&lt;li&gt;24 спортсмена: 12 юниоров, 12 юниорок&lt;/li&gt;&lt;li&gt;2 тренера&lt;/li&gt;&lt;li&gt;1 представитель&lt;/li&gt;&lt;li&gt;2 судей&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1090" y="-2260" width="320" height="100" as="geometry" />
@@ -570,107 +570,125 @@
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-95" value="25 человек&lt;br&gt;&lt;ul&gt;&lt;li&gt;20 спортсменов: 10 юниоров, 10 юниорок&lt;/li&gt;&lt;li&gt;2 тренера&lt;/li&gt;&lt;li&gt;1 представитель&lt;/li&gt;&lt;li&gt;2 судей&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1090" y="-1960" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LFJr_qgW0Npn4mGT8CEz-97" value="Определение победителей" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="20" y="970" width="740" height="30" as="geometry" />
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-97" value="10. Определение победителей" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1320" width="740" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-98" value="&lt;div&gt;&lt;div&gt;Победители соревнований определяются по месту, занятому в финальном заплыве&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1010" width="680" height="30" as="geometry" />
+          <mxGeometry x="80" y="1360" width="680" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-99" value="&lt;div&gt;&lt;div&gt;Очки начисляются при условии выполнения соответствующего разрядного норматива, указанного в настоящем Положении. Если данный норматив в финале не показан - очки не начисляются.&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1050" width="680" height="40" as="geometry" />
+          <mxGeometry x="80" y="1400" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-100" value="&lt;div&gt;&lt;div&gt;Командное первенство определяется по наибольшей сумме очков, набранных участниками команд в индивидуальных видах программы и эстафетном плавании.&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1100" width="680" height="40" as="geometry" />
+          <mxGeometry x="80" y="1450" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-101" value="&lt;div&gt;&lt;div&gt;Таблица оценки результатов в соревнованиях: Открытых чемпионатов и Кубка Беларуси, открытого первенства Республики Беларусь, Олимпийских дней молодежи&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Республики Беларусь&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1150" width="680" height="40" as="geometry" />
+          <mxGeometry x="80" y="1500" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-102" value="1 место = 40&lt;br&gt;2 место = 35&lt;br&gt;3 место = 30&lt;br&gt;4 место = 28&lt;br&gt;5 место = 26&lt;br&gt;6 место = 24&lt;br&gt;7 место = 22" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1190" width="340" height="110" as="geometry" />
+          <mxGeometry x="80" y="1540" width="340" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-103" value="8 место = 20&lt;br&gt;9 место = 18&lt;br&gt;10 место = 17&lt;br&gt;11 место = 16&lt;br&gt;12 место = 15&lt;br&gt;13 место = 14&lt;br&gt;14 место = 13" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1190" width="340" height="110" as="geometry" />
+          <mxGeometry x="420" y="1540" width="340" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-104" value="Результаты показанные в эстафетном плавании оцениваются с коэффициентом 2" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1300" width="680" height="30" as="geometry" />
+          <mxGeometry x="80" y="1650" width="680" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-105" value="Таблица начисления дополнительных очков результаты, показанные на республиканских соревнованиях по плаванию" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1340" width="680" height="30" as="geometry" />
+          <mxGeometry x="80" y="1690" width="680" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-106" value="&lt;div style=&quot;text-align: left;&quot;&gt;Рекорд Республики Беларусь&lt;/div&gt;&lt;div style=&quot;&quot;&gt;юношеский рекорд Республики Беларусь&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;норматив МСМК&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;норматив МС&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1370" width="340" height="70" as="geometry" />
+          <mxGeometry x="80" y="1720" width="340" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-107" value="Занятое место + 50 очков&lt;br&gt;Занятое место + 30 очков&lt;br&gt;Занятое место + 50 очков&lt;br&gt;Занятое место + 20 очков" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1370" width="340" height="70" as="geometry" />
+          <mxGeometry x="420" y="1720" width="340" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-108" value="Примечание:" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1450" width="680" height="30" as="geometry" />
+          <mxGeometry x="80" y="1800" width="680" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-109" value="на чемпионатах и Кубке Беларуси дополнительные очки начисляются только за установление рекорда Республики Беларусь" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1490" width="680" height="30" as="geometry" />
+          <mxGeometry x="80" y="1840" width="680" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-110" value="дополнительные очки за юношеские рекорды Республики Беларусь начисляются только на Первенстве Беларуси, Олимпийских днях молодежи Республики Беларусь" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1530" width="680" height="30" as="geometry" />
+          <mxGeometry x="80" y="1880" width="680" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-111" value="&lt;div&gt;в случае установления на юниорских, юношеских соревнованиях рекорда Республики Беларусь, дополнительные очки начисляются только за рекорд Республики Беларусь (50 очков); при этом очки за юношеский рекорд не начисляются&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1570" width="680" height="30" as="geometry" />
+          <mxGeometry x="80" y="1920" width="680" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-112" value="&lt;div&gt;дополнительные очки за выполнение норматива мастера спорта Республики Беларусь начисляются только на Первенстве Беларуси, Олимпийских днях молодежи Республики Беларусь, Спартакиаде детско-юношеских спортивных школ, Первенсгве Беларуси в программе соревнований &quot;Веселый дельфин&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1610" width="680" height="50" as="geometry" />
+          <mxGeometry x="80" y="1960" width="680" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-113" value="&lt;div&gt;в индивидуальных видах программы на всех соревнованиях дополнительные очки начисляются за выполнение нормативов мастера спорта Республики Беларусь международного класса, а также за установление рекорда Республики Беларусь, показанных как в финальных, так и в предварительных заплывах&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1670" width="680" height="50" as="geometry" />
+          <mxGeometry x="80" y="2020" width="680" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-114" value="&lt;div&gt;в эстафетном плавании дополнительные очки начисляются команде за установление рекорда Республики Беларусь с коэффициентом 1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1729" width="680" height="31" as="geometry" />
+          <mxGeometry x="80" y="2079" width="680" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="LFJr_qgW0Npn4mGT8CEz-116" value="Определение победителей" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1790" width="740" height="30" as="geometry" />
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-116" value="11. Награждение" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2140" width="740" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-117" value="&lt;div&gt;Команда-победительница награждается дипломом первой степени и памятным призом Министерства спорта и туризма Республики Беларусь.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1830" width="680" height="31" as="geometry" />
+          <mxGeometry x="80" y="2180" width="680" height="31" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-118" value="&lt;div&gt;Команды, занявшие второе и третье места, награждаются дипломами соответствующих степеней&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1870" width="680" height="20" as="geometry" />
+          <mxGeometry x="80" y="2220" width="680" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-119" value="&lt;div&gt;Победители в личном первенстве награждаются призами в денежной либо натуральной форме, медалями и дипломами первой степени, за вторые и третьи места - медалями и дипломами соответствующих степеней, а также призами ОО &quot;&lt;span style=&quot;background-color: initial;&quot;&gt;БФП&quot; (при наличии финансирования)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1900" width="680" height="50" as="geometry" />
+          <mxGeometry x="80" y="2250" width="680" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-120" value="Иностранные спортсмены-победители в ин диви дуальных видах программы награждаются памятными медалями, дипломами и ценными призами Белорусской федерации плавания, призеры - памятными медалями и дипломами" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1960" width="680" height="30" as="geometry" />
+          <mxGeometry x="80" y="2310" width="680" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-121" value="&lt;div&gt;Награждение спортсменов за 1-3 места производится при условии участия в данном виде программы более трех участников. При меньшем количестве участников награждение проводится только за I место&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2000" width="680" height="30" as="geometry" />
+          <mxGeometry x="80" y="2350" width="680" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-122" value="&lt;div&gt;В случае участия только одного спортсмена на дистанции, команде начисляются очки за первое место, спортсмен награждается только грамотой без вручения медали и приза&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2040" width="680" height="30" as="geometry" />
+          <mxGeometry x="80" y="2390" width="680" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-123" value="&lt;div&gt;В том случаях, если два или более спортсменов показали на дистанции одинаковое электронное время:&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;первого&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;места&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;все&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;спортсмены&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;награждаются дипломами&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;и денежными призами, (приз составляет одинаковый % от установленной суммы по смете за 1 место), при этом медаль и диплом за второе место не вручается, за третье место спортсмен награждается медалью и дипломом;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;второго&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;места&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;-&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;все&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;спортсмены&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;награждаются медалями и дипломами за второе место, при этом медаль и диплом 3 степени не вручается;&lt;/li&gt;&lt;li&gt;третьего&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;места&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;-&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;все&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;спортсмены&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;награждаются медалями и дипломами третьей степени&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2080" width="680" height="130" as="geometry" />
+          <mxGeometry x="80" y="2430" width="680" height="130" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-124" value="&lt;div&gt;Команда-победитель в&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;эстафетном&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;плавании награждается&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;дипломом 1 степени, каждый участник награждается медалью и призом в денежной либо натуральной форме.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2220" width="680" height="40" as="geometry" />
+          <mxGeometry x="80" y="2570" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-126" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;За второе и третье места команды награждаются дипломами соответствующей степени, каждый участник награждается медалью.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2270" width="680" height="30" as="geometry" />
+          <mxGeometry x="80" y="2620" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LFJr_qgW0Npn4mGT8CEz-127" value="Примечания" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="20" y="2330" width="740" height="30" as="geometry" />
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-127" value="14. Примечания" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2680" width="740" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-128" value="&lt;div&gt;2.&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;Спортсменам, принимающим участие в республиканских соревнованиях, запрещается выступать в форме, содержащей символику других государств, за исключением логотипов фирм производителей и спонсоров в соответствии с правилами.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2370" width="680" height="50" as="geometry" />
+          <mxGeometry x="80" y="2720" width="680" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-129" value="&lt;div&gt;3.&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;На всех республиканских соревнованиях спортсменам, не явившимся для участия в финальных заплывах или отказавшимся от участия в них, очки не начисляются.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2430" width="680" height="40" as="geometry" />
+          <mxGeometry x="80" y="2780" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-130" value="&lt;div&gt;4. Результаты&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;зарубежных&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;спортсменов&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;и&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;спортсменов,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;участвующих в личном первенстве, не учитываются при подсчете зачетных командных очков.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2480" width="680" height="40" as="geometry" />
+          <mxGeometry x="80" y="2830" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-131" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5.&lt;span style=&quot;&quot;&gt;	&lt;/span&gt; Результаты&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;зарубежных спортсменов&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;не учитываются&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;при определении внутреннего рейтинга по результатам соревнований.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2530" width="680" height="40" as="geometry" />
+          <mxGeometry x="80" y="2880" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LFJr_qgW0Npn4mGT8CEz-132" value="&lt;div&gt;&lt;/div&gt;6.&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;Победители и призеры, не вышедшие на награждение, лишаются очков, начисленных за данную дистанцию" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2580" width="680" height="20" as="geometry" />
+          <mxGeometry x="80" y="2930" width="680" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-133" value="6. Программа соревнований, условиях их проведения и определение результатов" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-1210" width="740" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-134" value="4. Участвующие организации и участники соревнований" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-1530" width="740" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-135" value="В соревнованиях принимают участие сильнейшие пловцы Республики Беларусь в составах сборных команд областей и г. Минска, при условии выполнения ими квалификационного норматива, показанного в отборочных соревнованиях (областных и г. Минска).&lt;br&gt;Спортсменам национальной команды (основной и переменный составы) разрешается выполнение квалификационного норматива на международных соревнованиях.&lt;br&gt;К соревнованиям допускаются спортсмены в личном первенстве, при условии выполнения ими квалификационных нормативов в отборочных соревнованиях (областных и г. Минска)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-1491" width="680" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-137" value="В открытых республиканских соревнованиях могут принимать участие спортсмены из других государств." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-1371" width="680" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-139" value="Результаты иностранных спортсменов на открытых соревнованиях учитываются отдельно от результатов граждан Республики Беларусь." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-1331" width="680" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-140" value="Звание чемпиона и призеров чемпионатов, Кубка, победителя и призеров первенства Республики Беларусь присуждается только белорусским спортсменам." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-1280" width="680" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
