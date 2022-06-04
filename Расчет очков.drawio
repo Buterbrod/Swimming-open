@@ -1,18 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2022-06-04T20:37:10.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="4Zbl5U81a0oQwFJxfvsQ" version="18.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-04T21:00:50.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="11QC7RBaPvhd0RiDlpMW" version="18.2.1" type="github" pages="3">
+  <diagram id="KhV4W1xw8XISt0uVxtHa" name="Республиканские">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="1epVyEjdJScuvTORiYmE" name="Республиканские">
     <mxGraphModel dx="1038" dy="1708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0UEoLD_UqMc9a8rCgnll-24" value="&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="340" width="490" height="180" as="geometry" />
+          <mxGeometry x="230" y="599" width="490" height="180" as="geometry" />
         </mxCell>
         <mxCell id="kI0TXd6lDpyNc3GqcL8A-2" value="&lt;span style=&quot;&quot;&gt;выполнение разрядного норматива соревнования&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="-30" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="229" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0UEoLD_UqMc9a8rCgnll-3" value="да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0UEoLD_UqMc9a8rCgnll-1" target="0UEoLD_UqMc9a8rCgnll-31" edge="1">
+        <mxCell id="0UEoLD_UqMc9a8rCgnll-3" value="да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0UEoLD_UqMc9a8rCgnll-1" edge="1">
           <mxGeometry x="-0.4819" y="10" relative="1" as="geometry">
-            <mxPoint x="90" y="290" as="targetPoint" />
+            <mxPoint x="90" y="539" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -25,106 +33,113 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-1" value="выполнен разрядный норматив соревнования?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="160" width="120" height="80" as="geometry" />
+          <mxGeometry x="30" y="419" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-4" value="Очки не начисляются" style="rounded=30;whiteSpace=wrap;html=1;arcSize=30;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="230" y="170" width="200" height="60" as="geometry" />
+          <mxGeometry x="230" y="429" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-8" value="&lt;span style=&quot;&quot;&gt;место, занятое в финальном заплыве&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="-30" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="229" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0UEoLD_UqMc9a8rCgnll-9" target="0UEoLD_UqMc9a8rCgnll-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-9" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="100" width="120" height="30" as="geometry" />
+          <mxGeometry x="30" y="359" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-11" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Открытый чемпионат&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;РБ&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Кубок РБ&lt;br&gt;Открытое первенство РБ&lt;br&gt;Олимпийские дни молодежи РБ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="280" width="490" height="60" as="geometry" />
+          <mxGeometry x="230" y="539" width="490" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-13" value="1 место = 40&lt;br&gt;2 место = 35&lt;br&gt;3 место = 30&lt;br&gt;4 место = 28" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="240" y="350" width="110" height="60" as="geometry" />
+          <mxGeometry x="240" y="609" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-14" value="&lt;span style=&quot;&quot;&gt;5 место = 26&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;6 место = 24&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;7 место = 22&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;8 место = 20&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="360" y="350" width="110" height="60" as="geometry" />
+          <mxGeometry x="360" y="609" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-15" value="&lt;span style=&quot;&quot;&gt;9 место = 18&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;10 место = 17&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;11 место = 16&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;12 место = 15&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="480" y="350" width="110" height="60" as="geometry" />
+          <mxGeometry x="480" y="609" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-16" value="&lt;span style=&quot;&quot;&gt;13 место = 14&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;14 место = 13&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="600" y="350" width="110" height="60" as="geometry" />
+          <mxGeometry x="600" y="609" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-17" value="&lt;span style=&quot;&quot;&gt;Применить коэффициент - 2&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="440" width="230" height="60" as="geometry" />
+          <mxGeometry x="480" y="699" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-19" value="да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0UEoLD_UqMc9a8rCgnll-18" target="0UEoLD_UqMc9a8rCgnll-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-18" value="эстафетное плавание?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="430" width="120" height="80" as="geometry" />
+          <mxGeometry x="240" y="689" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-22" value="рекорд РБ = занятое место + 50&lt;br&gt;юношеский рекорд РБ = занятое место + 30&lt;br&gt;норматив МСМК = занятое место + 50&lt;br&gt;норматив МС = занятое место + 20" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="230" y="555" width="260" height="60" as="geometry" />
+          <mxGeometry x="230" y="814" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-26" value="Открытый чемпионат&amp;nbsp;РБ&lt;br&gt;Открытый кубок РБ&lt;br&gt;Открытое первенство РБ&lt;br&gt;Олимпийские дни молодежи РБ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="-230" width="770" height="70" as="geometry" />
+          <mxGeometry x="20" y="60" width="770" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-27" value="Первенство РБ в программе соревнований&amp;nbsp;&quot;Весёлый Дельфин&quot;&lt;br&gt;Спартакиада детско-юношеских спортивных школ&lt;br&gt;Открытый чемпионат РБ на короткой воде" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="-150" width="770" height="60" as="geometry" />
+          <mxGeometry x="20" y="140" width="770" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-28" value="РЕСПУБЛИКАНСКИЕ СОРЕВНОВАНИЯ" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="30" y="-280" width="770" height="40" as="geometry" />
+          <mxGeometry x="20" y="10" width="770" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0UEoLD_UqMc9a8rCgnll-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0UEoLD_UqMc9a8rCgnll-29" target="0UEoLD_UqMc9a8rCgnll-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0UEoLD_UqMc9a8rCgnll-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="0UEoLD_UqMc9a8rCgnll-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="844" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-29" value="Начислить дополнительные очки" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="10" y="555" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0UEoLD_UqMc9a8rCgnll-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0UEoLD_UqMc9a8rCgnll-31" target="0UEoLD_UqMc9a8rCgnll-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0UEoLD_UqMc9a8rCgnll-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="0UEoLD_UqMc9a8rCgnll-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="569" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="0UEoLD_UqMc9a8rCgnll-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0UEoLD_UqMc9a8rCgnll-31" target="0UEoLD_UqMc9a8rCgnll-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0UEoLD_UqMc9a8rCgnll-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="599" as="sourcePoint" />
+            <mxPoint x="90" y="814" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-31" value="Начислить основные очки" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="10" y="280" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-36" value="за рекорд РБ" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="480" y="640" width="200" height="30" as="geometry" />
+          <mxGeometry x="480" y="899" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-37" value="Открытый чемпионат&amp;nbsp;РБ&lt;br&gt;Кубок РБ" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="230" y="640" width="210" height="30" as="geometry" />
+          <mxGeometry x="230" y="899" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-38" value="за юношеский рекорд РБ" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="480" y="680" width="200" height="30" as="geometry" />
+          <mxGeometry x="480" y="939" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-39" value="за норматив МСМК" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="480" y="790" width="200" height="30" as="geometry" />
+          <mxGeometry x="480" y="1049" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-40" value="за норматив МС" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="630" y="720" width="140" height="30" as="geometry" />
+          <mxGeometry x="630" y="979" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0UEoLD_UqMc9a8rCgnll-41" value="&lt;span style=&quot;&quot;&gt;Открытое первенство РБ&lt;br&gt;Олимпийские дни молодежи РБ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="230" y="680" width="210" height="30" as="geometry" />
+          <mxGeometry x="230" y="939" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="avZdRZ_vdqqQ64pIBQn--3" value="юниорские и юношеские соревнования" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="230" y="870" width="210" height="40" as="geometry" />
+          <mxGeometry x="230" y="1129" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="avZdRZ_vdqqQ64pIBQn--4" value="при установлении рекорда РБ очки за юношеские рекорды не начисляются&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="480" y="870" width="200" height="40" as="geometry" />
+          <mxGeometry x="480" y="1129" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="avZdRZ_vdqqQ64pIBQn--5" value="Открытое первенство РБ&lt;br&gt;Олимпийские дни молодежи РБ&lt;br&gt;Спартакиада детско-юношеских спортивных школ&lt;br&gt;Первенство РБ в программе соревнований&amp;nbsp;&quot;Весёлый Дельфин&quot;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="230" y="720" width="380" height="60" as="geometry" />
+          <mxGeometry x="230" y="979" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="avZdRZ_vdqqQ64pIBQn--6" value="за рекорд РБ" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="480" y="830" width="200" height="30" as="geometry" />
+          <mxGeometry x="480" y="1089" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="avZdRZ_vdqqQ64pIBQn--7" value="все соревнования" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="230" y="790" width="210" height="30" as="geometry" />
+          <mxGeometry x="230" y="1049" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="avZdRZ_vdqqQ64pIBQn--8" value="все соревнования" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="230" y="830" width="210" height="30" as="geometry" />
+          <mxGeometry x="230" y="1089" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-1" value="Открытое первенство РБ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="-1100" width="190" height="50" as="geometry" />
@@ -133,19 +148,19 @@
           <mxGeometry x="50" y="-1050" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-4" value="Открытый чемпионат&amp;nbsp;РБ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-1000" width="190" height="50" as="geometry" />
+          <mxGeometry x="50" y="-1000" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-5" value="Открытый кубок РБ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-850" width="190" height="50" as="geometry" />
+          <mxGeometry x="50" y="-820" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-6" value="Первенство РБ в программе соревнований&amp;nbsp;&quot;Весёлый Дельфин&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-950" width="190" height="50" as="geometry" />
+          <mxGeometry x="50" y="-920" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-7" value="Спартакиада детско-юношеских спортивных школ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-900" width="190" height="50" as="geometry" />
+          <mxGeometry x="50" y="-870" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-8" value="Открытый чемпионат РБ на короткой воде (25 м)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-800" width="190" height="50" as="geometry" />
+          <mxGeometry x="50" y="-770" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-9" value="08.02.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="-1100" width="80" height="50" as="geometry" />
@@ -172,64 +187,64 @@
           <mxGeometry x="670" y="-1050" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-17" value="04.04.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="-1000" width="80" height="50" as="geometry" />
+          <mxGeometry x="430" y="-1000" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-18" value="09.04.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-1000" width="80" height="50" as="geometry" />
+          <mxGeometry x="510" y="-1000" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-19" value="6 дней" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="-1000" width="80" height="50" as="geometry" />
+          <mxGeometry x="590" y="-1000" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-20" value="г. Брест" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="-1000" width="80" height="50" as="geometry" />
+          <mxGeometry x="670" y="-1000" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-21" value="31.05.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="-950" width="80" height="50" as="geometry" />
+          <mxGeometry x="430" y="-920" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-22" value="03.06.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-950" width="80" height="50" as="geometry" />
+          <mxGeometry x="510" y="-920" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-23" value="4 дня" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="-950" width="80" height="50" as="geometry" />
+          <mxGeometry x="590" y="-920" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-24" value="г. Могилев&lt;br&gt;г. Гродно&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="-950" width="80" height="50" as="geometry" />
+          <mxGeometry x="670" y="-920" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-25" value="14.06.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="-900" width="80" height="50" as="geometry" />
+          <mxGeometry x="430" y="-870" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-26" value="17.06.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-900" width="80" height="50" as="geometry" />
+          <mxGeometry x="510" y="-870" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-27" value="4 дня" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="-900" width="80" height="50" as="geometry" />
+          <mxGeometry x="590" y="-870" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-28" value="г. Минск" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="-900" width="80" height="50" as="geometry" />
+          <mxGeometry x="670" y="-870" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-29" value="28.06.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="-850" width="80" height="50" as="geometry" />
+          <mxGeometry x="430" y="-820" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-30" value="02.07.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-850" width="80" height="50" as="geometry" />
+          <mxGeometry x="510" y="-820" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-31" value="5 дней" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="-850" width="80" height="50" as="geometry" />
+          <mxGeometry x="590" y="-820" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-32" value="г. Брест" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="-850" width="80" height="50" as="geometry" />
+          <mxGeometry x="670" y="-820" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-33" value="08.11.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="-800" width="80" height="50" as="geometry" />
+          <mxGeometry x="430" y="-770" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-34" value="12.11.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-800" width="80" height="50" as="geometry" />
+          <mxGeometry x="510" y="-770" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-35" value="5 дней" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="-800" width="80" height="50" as="geometry" />
+          <mxGeometry x="590" y="-770" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-36" value="г. Брест" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="-800" width="80" height="50" as="geometry" />
+          <mxGeometry x="670" y="-770" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-37" value="юниоры 2004 - 2007 гг.р.&lt;br&gt;юниорки 2005 - 2008 гг.р." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="-1100" width="190" height="50" as="geometry" />
@@ -238,19 +253,19 @@
           <mxGeometry x="240" y="-1050" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-39" value="мужчины&lt;br&gt;женщины" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-1000" width="190" height="50" as="geometry" />
+          <mxGeometry x="240" y="-1000" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-40" value="юниоры 2008 гг.р. и моложе&lt;br&gt;юниорки 2010 гг.р. и моложе" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-950" width="190" height="50" as="geometry" />
+          <mxGeometry x="240" y="-920" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-41" value="юниоры 2007 - 2008 гг.р.&lt;br&gt;юниорки 2009 - 2010 гг.р." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-900" width="190" height="50" as="geometry" />
+          <mxGeometry x="240" y="-870" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-42" value="мужчины&lt;br&gt;женщины" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-850" width="190" height="50" as="geometry" />
+          <mxGeometry x="240" y="-820" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-43" value="мужчины&lt;br&gt;женщины" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-800" width="190" height="50" as="geometry" />
+          <mxGeometry x="240" y="-770" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-44" value="Наименование спортивного мероприятия" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
           <mxGeometry x="50" y="-1160" width="190" height="60" as="geometry" />
@@ -280,19 +295,19 @@
           <mxGeometry x="20" y="-1050" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-53" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-1000" width="30" height="50" as="geometry" />
+          <mxGeometry x="20" y="-1000" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-54" value="6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-850" width="30" height="50" as="geometry" />
+          <mxGeometry x="20" y="-820" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-55" value="4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-950" width="30" height="50" as="geometry" />
+          <mxGeometry x="20" y="-920" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-56" value="5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-900" width="30" height="50" as="geometry" />
+          <mxGeometry x="20" y="-870" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-57" value="7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-800" width="30" height="50" as="geometry" />
+          <mxGeometry x="20" y="-770" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-58" value="№" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
           <mxGeometry x="20" y="-1160" width="30" height="60" as="geometry" />
@@ -310,10 +325,10 @@
           <mxGeometry x="20" y="-720" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-66" value="Отборочные для участия" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="-1160" width="510" height="60" as="geometry" />
+          <mxGeometry x="1090" y="-1160" width="620" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pMIyGP8yNN3Yacg1J5Pv-67" value="&lt;ul&gt;&lt;li&gt;Чемпионат Европы по плаванию среди юниоров (6-11.07.2022, по назначению)&lt;/li&gt;&lt;li&gt;Чемпионат Мира по плаванию среди юниоров (24-29.08.2022, Казань)&lt;/li&gt;&lt;li&gt;XVI Европейский Юношеский Олимпийский фестиваль (23-30.07.2022, Словакия)&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="-1100" width="510" height="50" as="geometry" />
+        <mxCell id="pMIyGP8yNN3Yacg1J5Pv-67" value="&lt;ul&gt;&lt;li&gt;Чемпионат Европы по плаванию среди юниоров (6-11.07.2022, по назначению)&lt;/li&gt;&lt;li&gt;Чемпионат Мира по плаванию среди юниоров (24-29.08.2022, Казань)&lt;/li&gt;&lt;li&gt;XVI Европейский Юношеский Олимпийский фестиваль (23-30.07.2022, г.Банска-Бистрица,&amp;nbsp;Словакия)&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="-1100" width="620" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-68" value="1 разряд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="-1100" width="90" height="50" as="geometry" />
@@ -330,11 +345,44 @@
         <mxCell id="pMIyGP8yNN3Yacg1J5Pv-72" value="КМС" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="-1100" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pMIyGP8yNN3Yacg1J5Pv-73" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Очки в индивидуальных видах программы начисляются при усолвии выполнения норматива КМС РБ по показанным результатам первым 14 спортсменам, входящим в состав команд без учета результатов спортсменов, участвующих в личном первенстве&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-470" width="680" height="50" as="geometry" />
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-3" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Очки в индивидуальных видах программы начисляются при условии выполнения участниками норматива &lt;b&gt;КМС РБ&lt;/b&gt; по показанным результатам первым 14 спортсменам, входящим в состав команд без учета результатов спортсменов, участвующих в личном первенстве&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1320" width="680" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pMIyGP8yNN3Yacg1J5Pv-74" value="&lt;span style=&quot;background-color: initial;&quot;&gt;1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="30" y="-470" width="50" height="50" as="geometry" />
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-4" value="&lt;span style=&quot;background-color: initial;&quot;&gt;1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1320" width="50" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-5" value="Общекомандное первенство среди команд областей и г. Минска определяется по наибольшей сумме очков, набранных участниками команды во всех индивидуальных видах программы и в эстафетном плавании при условии, что в зачет команды идут результаты:&lt;br&gt;&lt;ul&gt;&lt;li&gt;показанные одним спортсменом команды не более чем в трех индивидуальных видах программы в соответствии с технической заявкой;&lt;/li&gt;&lt;li&gt;не более двух спортсменов команды в каждом виде программы и по одной эстафете (отдельно у юниоров и юниорок).&lt;/li&gt;&lt;/ul&gt;При равенстве очков в командном первенстве преимущество отдается команде, имеющей большее количество 1-х и т.д. мест в индивидуальных видах программы." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1380" width="680" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-6" value="За установление каждого рекорда Республики Беларусь, выполнение норматива мастера спорта Республики Беларусь, мастера спорта Республики Беларусь международного класса начисляются дополнительные очки (см. главу 10 &quot;Определение победителей&#39;)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1550" width="680" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-7" value="&lt;span style=&quot;background-color: initial;&quot;&gt;2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1610" width="50" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-8" value="&lt;ul&gt;&lt;li&gt;XVI Европейский Юношеский Олимпийский фестиваль (23-30.07.2022, г.Банска-Бистрица, Словакия)&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="-1050" width="620" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-9" value="1 разряд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="-1050" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-10" value="&lt;ul&gt;&lt;li&gt;предварительные&lt;/li&gt;&lt;li&gt;финальные&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="930" y="-1050" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-11" value="1 разряд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="-1050" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-12" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Очки в индивидуальных видах программы начисляются при условии выполнения участниками норматива &lt;b&gt;1 спортивного разряда&lt;/b&gt; по показанным результатам первым 14 спортсменам, входящим в состав команд без учета результатов спортсменов, участвующих в личном первенстве&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1610" width="680" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-13" value="Общекомандное первенство среди команд областей и г. Минска определяется по наибольшей сумме очков, набранных участниками команды во всех индивидуальных видах программы и в эстафетном плавании при условии, что в зачет команды идут результаты:&lt;br&gt;&lt;ul&gt;&lt;li&gt;показанные одним спортсменом команды не более чем в трех индивидуальных видах программы в соответствии с технической заявкой;&lt;/li&gt;&lt;li&gt;не более двух спортсменов команды в каждом виде программы, а также результат одной эстафеты (раздельно у юниорок и юниоров)&lt;/li&gt;&lt;/ul&gt;При равенстве очков в командном первенстве преимущество отдается команде, имеющей большее количество 1-х и т.д. мест в индивидуальных видах программы." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1670" width="680" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-14" value="За установление каждого рекорда Республики Беларусь, выполнение норматива мастера спорта Республики Беларусь, мастера спорта Республики Беларусь международного класса начисляются дополнительные очки (см. главу 10 &quot;Определение победителей&#39;)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1840" width="680" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LFJr_qgW0Npn4mGT8CEz-15" value="&lt;ul&gt;&lt;li&gt;Чемпионат Мира (13-29.05.2022, г.Фукуока, Япония)&lt;/li&gt;&lt;li&gt;Всемирная Универсиада (26.06 - 7.07.2022, г.Чэнду, КНР)&lt;/li&gt;&lt;li&gt;Чемпионат Европы по плаванию (11-17.08.2022, г.Рим, Италия)&lt;/li&gt;&lt;li&gt;Чемпионат Европы по плаванию среди юниоров (6-11.07.2022, по назначению)&lt;/li&gt;&lt;li&gt;Чемпионат Мира по плаванию среди юниоров (24-29.08.2022, Казань)&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="-1000" width="620" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
