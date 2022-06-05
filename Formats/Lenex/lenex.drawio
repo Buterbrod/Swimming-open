@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T13:45:40.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="LTE1isdqvMY2CNSb8Wbx" version="18.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-05T14:09:17.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="mXzbGk0sonxyE07Bth88" version="18.2.1" type="github" pages="4">
   <diagram id="ueC9EN3mQK6EyC93AZKU" name="FileName">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,205 @@
               <mxPoint x="480" y="65" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cgplhgDl9NAEX-10BulV" name="Lenex file">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kdp4y26nWVqPTdRKS5SH-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;Invitation&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kdp4y26nWVqPTdRKS5SH-4" value="&lt;span style=&quot;text-align: left;&quot;&gt;Entries&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kdp4y26nWVqPTdRKS5SH-5" value="&lt;span style=&quot;&quot;&gt;An entry file contains the entries for one meet.&lt;br&gt;One file might contain the entries of one club only,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;or it can contain all entries of all clubs.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kdp4y26nWVqPTdRKS5SH-6" value="&lt;span style=&quot;&quot;&gt;An invitation file contains general information, the schedule and the event structure of one&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;meet.&lt;br&gt;Additionally, it could be necessary or helpful to add time standards and/or qualification times, which&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;are important for the meet.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="20" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kdp4y26nWVqPTdRKS5SH-8" value="&lt;span style=&quot;text-align: left;&quot;&gt;Results&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kdp4y26nWVqPTdRKS5SH-9" value="A result file contains the results of one meet.&lt;br&gt;Normally, it contains all results of all clubs, but it is&amp;nbsp;possible to split the results for each club into a separate file." style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kdp4y26nWVqPTdRKS5SH-10" value="&lt;span style=&quot;text-align: left;&quot;&gt;Records&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kdp4y26nWVqPTdRKS5SH-11" value="A record file contains one or more list(s) of records." style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kdp4y26nWVqPTdRKS5SH-12" value="&lt;span style=&quot;text-align: left;&quot;&gt;Time standards&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kdp4y26nWVqPTdRKS5SH-13" value="A time standards file may contain different kinds of time standards and/or qualification&amp;nbsp;times.&lt;br&gt;It might make sense to store time standards in separate files, if they are independent of meets (e.g.&lt;br&gt;Olympic A and B time standards).&lt;br&gt;If the time standards are bound to a certain meet, they should be&amp;nbsp;included in the invitation file of that meet." style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="570" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cRWhHFy4op6nNqENUQwg" name="Lenex Tree">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YSQmjL1IiymvAM0oykPz-1" value="LENEX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="80" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;CONSTRUCTOR&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Information about the creator of the file.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="100" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-5" value="The root of a Lenex file" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="80" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-6" value="&lt;span style=&quot;text-align: left;&quot;&gt;MEETS&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-7" value="&lt;span style=&quot;text-align: left;&quot;&gt;MEET&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-8" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;The root for a meet sub tree.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="140" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-9" value="&lt;span style=&quot;text-align: left;&quot;&gt;SESSIONS&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-10" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;The schedule and event details of a meet.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="160" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-11" value="&lt;span style=&quot;text-align: left;&quot;&gt;CLUBS&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-12" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;All data of one club at the meet.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="180" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-13" value="&lt;span style=&quot;text-align: left;&quot;&gt;ATHLETES&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="200" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-14" value="&lt;span style=&quot;text-align: left;&quot;&gt;RELAYS&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-15" value="&lt;span style=&quot;text-align: left;&quot;&gt;OFFICIALS&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-16" value="&lt;span style=&quot;text-align: left;&quot;&gt;RECORDLISTS&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-17" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;The root for the record lists sub tree.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="260" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-18" value="&lt;span style=&quot;text-align: left;&quot;&gt;TIMESTANDARDLISTS&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-20" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;The root for the time standard lists sub tree.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="280" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-22" value="&lt;span style=&quot;&quot;&gt;3.1. Tree overview&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-23" value="3.2. Sub tree SESSIONS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="330" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeColor=#999999;" edge="1" parent="1" source="YSQmjL1IiymvAM0oykPz-16" target="YSQmjL1IiymvAM0oykPz-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="290" as="sourcePoint" />
+            <mxPoint x="20" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-25" value="SESSIONS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="20" y="410" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-26" value="SESSION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="430" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-28" value="Data of one session with all its events." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="410" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-29" value="POOL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="450" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-30" value="EVENTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="60" y="470" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-32" value="EVENT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="490" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-33" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Description of one event/round.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="490" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-34" value="AGEGROUPS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="100" y="510" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-36" value="AGEGROUP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="530" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-37" value="RANKINGS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="140" y="550" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-38" value="RANKING" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="570" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-39" value="HEATS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="100" y="590" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-41" value="&lt;span style=&quot;text-align: left;&quot;&gt;HEAT&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="610" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-43" value="Details of one age group." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="530" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-44" value="Details for ranking with reference to result elements" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="570" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-45" value="Details of one heat (number, starttime)." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="610" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-46" value="SWIMSTYLE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="630" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-47" value="TIMESTANDARDREFS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="100" y="650" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-48" value="Reference to a timestandard list" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="670" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-49" value="TIMESTANDARDREF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="670" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-50" value="JUDGES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="60" y="690" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-51" value="JUDGE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="710" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-52" value="Details about judges for a session." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="710" width="305" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-53" value="SESSIONS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="20" y="830" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-54" value="Data of one session with all its events." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="830" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-55" value="3.3. Sub tree ATHLETES&lt;br/&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="760" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-57" value="The following tree shows the most important elements in a Lenex tree." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="50" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-58" value="The SESSIONS sub tree describes the entire event structure with prelims and final events and the age&lt;br/&gt;groups used for the result lists" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="370" width="660" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-59" value="The ATHLETES sub tree contains all athletes of one club with their entries and/or results." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="800" width="660" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -241,44 +440,6 @@
             <mxGeometry x="10" y="10" width="470" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="cgplhgDl9NAEX-10BulV" name="Page-3">
-    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="kdp4y26nWVqPTdRKS5SH-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;Invitation&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kdp4y26nWVqPTdRKS5SH-4" value="&lt;span style=&quot;text-align: left;&quot;&gt;Entries&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kdp4y26nWVqPTdRKS5SH-5" value="&lt;span style=&quot;&quot;&gt;An entry file contains the entries for one meet.&lt;br&gt;One file might contain the entries of one club only,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;or it can contain all entries of all clubs.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="160" y="100" width="570" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kdp4y26nWVqPTdRKS5SH-6" value="&lt;span style=&quot;&quot;&gt;An invitation file contains general information, the schedule and the event structure of one&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;meet.&lt;br&gt;Additionally, it could be necessary or helpful to add time standards and/or qualification times, which&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;are important for the meet.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="160" y="20" width="570" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kdp4y26nWVqPTdRKS5SH-8" value="&lt;span style=&quot;text-align: left;&quot;&gt;Results&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kdp4y26nWVqPTdRKS5SH-9" value="A result file contains the results of one meet.&lt;br&gt;Normally, it contains all results of all clubs, but it is&amp;nbsp;possible to split the results for each club into a separate file." style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="160" y="180" width="570" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kdp4y26nWVqPTdRKS5SH-10" value="&lt;span style=&quot;text-align: left;&quot;&gt;Records&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kdp4y26nWVqPTdRKS5SH-11" value="A record file contains one or more list(s) of records." style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="160" y="260" width="570" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kdp4y26nWVqPTdRKS5SH-12" value="&lt;span style=&quot;text-align: left;&quot;&gt;Time standards&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="340" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kdp4y26nWVqPTdRKS5SH-13" value="A time standards file may contain different kinds of time standards and/or qualification&amp;nbsp;times.&lt;br&gt;It might make sense to store time standards in separate files, if they are independent of meets (e.g.&lt;br&gt;Olympic A and B time standards).&lt;br&gt;If the time standards are bound to a certain meet, they should be&amp;nbsp;included in the invitation file of that meet." style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="160" y="340" width="570" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
