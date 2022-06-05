@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T00:30:05.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="E-yatjODJh7emkQX3TYv" version="18.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-05T00:37:09.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="F2fe8QS9wBX3S6wP01sn" version="18.2.1" type="github" pages="2">
   <diagram id="1epVyEjdJScuvTORiYmE" name="Республиканские">
     <mxGraphModel dx="1038" dy="2877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -590,22 +590,22 @@
           <mxGeometry x="20" y="-2320" width="2010" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yGjg3a21TGuawO5ZaBFA-3" value="Общий алгоритм подсчета очков" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="20" y="3040" width="740" height="40" as="geometry" />
+          <mxGeometry x="20" y="3060" width="740" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yGjg3a21TGuawO5ZaBFA-4" value="&lt;span style=&quot;&quot;&gt;список финалистов&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="3120" width="740" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yGjg3a21TGuawO5ZaBFA-5" value="&lt;span style=&quot;&quot;&gt;ФИО (*)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="3170" width="120" height="30" as="geometry" />
+          <mxGeometry x="380" y="3170" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yGjg3a21TGuawO5ZaBFA-6" value="&lt;span style=&quot;&quot;&gt;соревнование / эстафета&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="3170" width="120" height="30" as="geometry" />
+          <mxGeometry x="120" y="3170" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yGjg3a21TGuawO5ZaBFA-7" value="только РБ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="20" y="3240" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yGjg3a21TGuawO5ZaBFA-8" value="&lt;span style=&quot;&quot;&gt;время&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="3170" width="120" height="30" as="geometry" />
+          <mxGeometry x="640" y="3170" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yGjg3a21TGuawO5ZaBFA-9" value="вышедшие на награждение" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="100" y="3240" width="80" height="40" as="geometry" />
@@ -941,7 +941,7 @@
           <mxGeometry x="820" y="4910" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yGjg3a21TGuawO5ZaBFA-128" value="&lt;span style=&quot;&quot;&gt;тип заплыва&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="3170" width="120" height="30" as="geometry" />
+          <mxGeometry x="250" y="3170" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yGjg3a21TGuawO5ZaBFA-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yGjg3a21TGuawO5ZaBFA-130" target="yGjg3a21TGuawO5ZaBFA-158">
           <mxGeometry relative="1" as="geometry">
@@ -956,7 +956,7 @@
           <mxGeometry x="20" y="3830" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yGjg3a21TGuawO5ZaBFA-132" value="&lt;span style=&quot;&quot;&gt;команда&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="3170" width="120" height="30" as="geometry" />
+          <mxGeometry x="510" y="3170" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yGjg3a21TGuawO5ZaBFA-139" value="3.4" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="820" y="4350" width="40" height="260" as="geometry" />
