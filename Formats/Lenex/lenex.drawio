@@ -1,11 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T19:06:55.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="IEJvy8o9mM9-O_etPw6Q" version="18.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-05T13:45:40.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="LTE1isdqvMY2CNSb8Wbx" version="18.2.1" type="github" pages="3">
+  <diagram id="ueC9EN3mQK6EyC93AZKU" name="FileName">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Al5vsp99LIilWwOlyKnx-2" value="&lt;span style=&quot;text-align: left;&quot;&gt;A Lenex file&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Al5vsp99LIilWwOlyKnx-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;A XML file&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Al5vsp99LIilWwOlyKnx-5" value="&lt;span style=&quot;text-align: left;&quot;&gt;The .lef&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;extension&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Al5vsp99LIilWwOlyKnx-6" value="&lt;span style=&quot;text-align: left;&quot;&gt;A Zip&amp;nbsp;file&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Al5vsp99LIilWwOlyKnx-7" value="&lt;span style=&quot;text-align: left;&quot;&gt;The .lxf&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;extension&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Al5vsp99LIilWwOlyKnx-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="70" as="sourcePoint" />
+            <mxPoint x="430" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Al5vsp99LIilWwOlyKnx-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=28;endSize=9.6;width=46;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="45" as="sourcePoint" />
+            <mxPoint x="480" y="95" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="65" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="Dtqj57MDv5bo1pP1_dTz" name="Page-1">
-    <mxGraphModel dx="1038" dy="1708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DwAmklAiNKgLwSRmx11Q-14" value="AGEDATE" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="180" height="100" as="geometry" />
+          <mxGeometry x="10" y="260" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="DwAmklAiNKgLwSRmx11Q-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="DwAmklAiNKgLwSRmx11Q-14">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -34,7 +72,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DwAmklAiNKgLwSRmx11Q-40" value="Country" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-20" width="180" height="100" as="geometry" />
+          <mxGeometry x="360" y="230" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="DwAmklAiNKgLwSRmx11Q-41" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="DwAmklAiNKgLwSRmx11Q-40">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -64,16 +102,16 @@
         </mxCell>
         <UserObject label="https://www.swimrankings.net/files/Lenex_Country.txt" link="https://www.swimrankings.net/files/Lenex_Country.txt" id="DwAmklAiNKgLwSRmx11Q-53">
           <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="360" y="-50" width="310" height="30" as="geometry" />
+            <mxGeometry x="360" y="200" width="310" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="https://www.swimrankings.net/files/Lenex_PointTable.txt" link="https://www.swimrankings.net/files/Lenex_PointTable.txt" id="DwAmklAiNKgLwSRmx11Q-54">
           <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="360" y="340" width="320" height="30" as="geometry" />
+            <mxGeometry x="360" y="590" width="320" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="DwAmklAiNKgLwSRmx11Q-59" value="PointTable" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="370" width="180" height="100" as="geometry" />
+          <mxGeometry x="360" y="620" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="DwAmklAiNKgLwSRmx11Q-60" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="DwAmklAiNKgLwSRmx11Q-59">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -102,7 +140,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DwAmklAiNKgLwSRmx11Q-72" value="Nation" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-160" width="180" height="100" as="geometry" />
+          <mxGeometry x="360" y="90" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="DwAmklAiNKgLwSRmx11Q-73" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="DwAmklAiNKgLwSRmx11Q-72">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -132,16 +170,16 @@
         </mxCell>
         <UserObject label="https://www.swimrankings.net/files/Lenex_Nation.txt" link="https://www.swimrankings.net/files/Lenex_Nation.txt" id="DwAmklAiNKgLwSRmx11Q-79">
           <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="360" y="-190" width="300" height="30" as="geometry" />
+            <mxGeometry x="360" y="60" width="300" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="https://www.swimrankings.net/files/Lenex_Currency.txt" link="https://www.swimrankings.net/files/Lenex_Currency.txt" id="DwAmklAiNKgLwSRmx11Q-80">
           <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="360" y="90" width="310" height="30" as="geometry" />
+            <mxGeometry x="360" y="340" width="310" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="DwAmklAiNKgLwSRmx11Q-81" value="Currency" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="120" width="180" height="100" as="geometry" />
+          <mxGeometry x="360" y="370" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="DwAmklAiNKgLwSRmx11Q-82" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="DwAmklAiNKgLwSRmx11Q-81">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -170,7 +208,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DwAmklAiNKgLwSRmx11Q-88" value="Cource" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="230" width="180" height="100" as="geometry" />
+          <mxGeometry x="360" y="480" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="DwAmklAiNKgLwSRmx11Q-89" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="DwAmklAiNKgLwSRmx11Q-88">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -197,6 +235,49 @@
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <UserObject label="https://wiki.swimrankings.net/images/6/62/Lenex_3.0_Technical_Documentation.pdf" link="https://wiki.swimrankings.net/images/6/62/Lenex_3.0_Technical_Documentation.pdf" id="DwAmklAiNKgLwSRmx11Q-95">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="10" y="10" width="470" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cgplhgDl9NAEX-10BulV" name="Page-3">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kdp4y26nWVqPTdRKS5SH-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;Invitation&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kdp4y26nWVqPTdRKS5SH-4" value="&lt;span style=&quot;text-align: left;&quot;&gt;Entries&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kdp4y26nWVqPTdRKS5SH-5" value="&lt;span style=&quot;&quot;&gt;An entry file contains the entries for one meet.&lt;br&gt;One file might contain the entries of one club only,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;or it can contain all entries of all clubs.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kdp4y26nWVqPTdRKS5SH-6" value="&lt;span style=&quot;&quot;&gt;An invitation file contains general information, the schedule and the event structure of one&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;meet.&lt;br&gt;Additionally, it could be necessary or helpful to add time standards and/or qualification times, which&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;are important for the meet.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="20" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kdp4y26nWVqPTdRKS5SH-8" value="&lt;span style=&quot;text-align: left;&quot;&gt;Results&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kdp4y26nWVqPTdRKS5SH-9" value="A result file contains the results of one meet.&lt;br&gt;Normally, it contains all results of all clubs, but it is&amp;nbsp;possible to split the results for each club into a separate file." style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kdp4y26nWVqPTdRKS5SH-10" value="&lt;span style=&quot;text-align: left;&quot;&gt;Records&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kdp4y26nWVqPTdRKS5SH-11" value="A record file contains one or more list(s) of records." style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kdp4y26nWVqPTdRKS5SH-12" value="&lt;span style=&quot;text-align: left;&quot;&gt;Time standards&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kdp4y26nWVqPTdRKS5SH-13" value="A time standards file may contain different kinds of time standards and/or qualification&amp;nbsp;times.&lt;br&gt;It might make sense to store time standards in separate files, if they are independent of meets (e.g.&lt;br&gt;Olympic A and B time standards).&lt;br&gt;If the time standards are bound to a certain meet, they should be&amp;nbsp;included in the invitation file of that meet." style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="570" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
