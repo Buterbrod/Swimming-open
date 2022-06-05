@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T12:26:41.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="r1my9uRXIbADNYHPRS4s" version="18.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-05T12:28:19.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="CdocpfHqFhTr7Bqe5JsM" version="18.2.1" type="github" pages="2">
   <diagram id="1epVyEjdJScuvTORiYmE" name="Республиканские">
     <mxGraphModel dx="1038" dy="2877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1062,1021 +1062,1021 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-1" value="Первенство г.Минска" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-1" value="Первенство г.Минска" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="-2200" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-2" value="Олимпийские Дни молодежи г. Минска" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-2" value="Олимпийские Дни молодежи г. Минска" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="-2100" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-3" value="Открытый чемпионат г.Минска" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-3" value="Открытый чемпионат г.Минска" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="-2000" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-4" value="&lt;div&gt;Открытый Кубок г. Минска&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-4" value="&lt;div&gt;Открытый Кубок г. Минска&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="-1700" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-5" value="Первенство г.Минска в программе соревнований по плаванию «Веселый дельфин»" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-5" value="Первенство г.Минска в программе соревнований по плаванию «Веселый дельфин»" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="-1900" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-6" value="Спартакиада г. Минска среди детско-юношеских спортивных школ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-6" value="Спартакиада г. Минска среди детско-юношеских спортивных школ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="-1800" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-7" value="Открытый чемпионат г.Минска по короткой воде" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-7" value="Открытый чемпионат г.Минска по короткой воде" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="-1600" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-8" value="12.01.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-8" value="12.01.2022" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="-2200" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-9" value="14.01.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-9" value="14.01.2022" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="-2200" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-10" value="3 дня" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-10" value="3 дня" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="-2200" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-11" value="ВТК ГЦОР,&lt;br&gt;50 м" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-11" value="ВТК ГЦОР,&lt;br&gt;50 м" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="-2200" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-12" value="16.02.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-12" value="16.02.2022" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="-2100" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-13" value="18.02.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-13" value="18.02.2022" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="-2100" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-14" value="3 дня" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-14" value="3 дня" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="-2100" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-15" value="ВТК ГЦОР,&lt;br&gt;50 м" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-15" value="ВТК ГЦОР,&lt;br&gt;50 м" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="-2100" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-16" value="09.03.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-16" value="09.03.2022" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="-2000" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-17" value="11.03.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-17" value="11.03.2022" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="-2000" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-18" value="3 дня" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-18" value="3 дня" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="-2000" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-19" value="ВТК ГЦОР,&lt;br&gt;50 м" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-19" value="ВТК ГЦОР,&lt;br&gt;50 м" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="-2000" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-20" value="04.05.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-20" value="04.05.2022" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="-1900" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-21" value="06.05.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-21" value="06.05.2022" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="-1900" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-22" value="3 дня" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-22" value="3 дня" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="-1900" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-23" value="СОК «Трактор», ДЮСШ «Янтарь»,&lt;br&gt;25 м" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-23" value="СОК «Трактор», ДЮСШ «Янтарь»,&lt;br&gt;25 м" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="-1900" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-24" value="25.05.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-24" value="25.05.2022" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="-1800" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-25" value="27.05.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-25" value="27.05.2022" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="-1800" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-26" value="3 дня" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-26" value="3 дня" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="-1800" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-27" value="СОК «Трактор»" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-27" value="СОК «Трактор»" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="-1800" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-28" value="01.06.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-28" value="01.06.2022" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="-1700" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-29" value="03.06.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-29" value="03.06.2022" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="-1700" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-30" value="3 дня" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-30" value="3 дня" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="-1700" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-31" value="ВТК ГЦОР" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-31" value="ВТК ГЦОР" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="-1700" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-32" value="12.10.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-32" value="12.10.2022" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="-1600" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-33" value="14.10.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-33" value="14.10.2022" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="-1600" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-34" value="3 дня" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-34" value="3 дня" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="-1600" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-35" value="СОК «Трактор»" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-35" value="СОК «Трактор»" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="-1600" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-36" value="юниоры 2004-2007 г.р.&lt;br&gt;юниорки&amp;nbsp;2005-2008 г.р." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-36" value="юниоры 2004-2007 г.р.&lt;br&gt;юниорки&amp;nbsp;2005-2008 г.р." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="-2200" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-37" value="&lt;span style=&quot;&quot;&gt;юниоры 2006-2007 г.р.&lt;br&gt;юниорки 2007-2008 г.р.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-37" value="&lt;span style=&quot;&quot;&gt;юниоры 2006-2007 г.р.&lt;br&gt;юниорки 2007-2008 г.р.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="-2100" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-38" value="&lt;span style=&quot;&quot;&gt;мужчины&lt;br&gt;женщины&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-38" value="&lt;span style=&quot;&quot;&gt;мужчины&lt;br&gt;женщины&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="-2000" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-39" value="&lt;span style=&quot;&quot;&gt;юноши 2008 г.р. и моложе&lt;br&gt;девушки 2010 г.р. и моложе&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-39" value="&lt;span style=&quot;&quot;&gt;юноши 2008 г.р. и моложе&lt;br&gt;девушки 2010 г.р. и моложе&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="-1900" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-40" value="&lt;span style=&quot;&quot;&gt;юноши 2007-2008 г.р.&lt;br&gt;юниорки 2009-2010 г.р.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-40" value="&lt;span style=&quot;&quot;&gt;юноши 2007-2008 г.р.&lt;br&gt;юниорки 2009-2010 г.р.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="-1800" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-41" value="&lt;span style=&quot;&quot;&gt;мужчины&lt;br&gt;женщины&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-41" value="&lt;span style=&quot;&quot;&gt;мужчины&lt;br&gt;женщины&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="-1700" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-42" value="&lt;span style=&quot;&quot;&gt;мужчины&lt;br&gt;женщины&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-42" value="&lt;span style=&quot;&quot;&gt;мужчины&lt;br&gt;женщины&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="-1600" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-43" value="Наименование спортивного мероприятия" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-43" value="Наименование спортивного мероприятия" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" parent="1" vertex="1">
           <mxGeometry x="50" y="-2260" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-44" value="Дата начала" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-44" value="Дата начала" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" parent="1" vertex="1">
           <mxGeometry x="430" y="-2240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-45" value="Дата окончания" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-45" value="Дата окончания" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" parent="1" vertex="1">
           <mxGeometry x="510" y="-2240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-46" value="Продолжи-тельность,&lt;br&gt;дней" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-46" value="Продолжи-тельность,&lt;br&gt;дней" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" parent="1" vertex="1">
           <mxGeometry x="590" y="-2240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-47" value="Место проведения" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-47" value="Место проведения" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" parent="1" vertex="1">
           <mxGeometry x="670" y="-2260" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-48" value="Участники" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-48" value="Участники" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" parent="1" vertex="1">
           <mxGeometry x="240" y="-2260" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-49" value="Сроки проведения" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-49" value="Сроки проведения" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" parent="1" vertex="1">
           <mxGeometry x="430" y="-2260" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-50" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-50" value="1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="-2200" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-51" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-51" value="2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="-2100" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-52" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-52" value="3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="-2000" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-53" value="6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-53" value="6" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="-1700" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-54" value="4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-54" value="4" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="-1900" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-55" value="5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-55" value="5" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="-1800" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-56" value="7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-56" value="7" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="-1600" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-57" value="№" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-57" value="№" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" parent="1" vertex="1">
           <mxGeometry x="20" y="-2260" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-60" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-60" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1590" y="-2200" width="620" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-61" value="&lt;span style=&quot;&quot;&gt;1 разряд&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-61" value="&lt;span style=&quot;&quot;&gt;1 разряд&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="-2200" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-63" value="&lt;ul&gt;&lt;li&gt;предварительные&lt;/li&gt;&lt;li&gt;полуфинальные&lt;/li&gt;&lt;li&gt;финальные&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-63" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;финальные&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1110" y="-2200" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-65" value="&lt;span style=&quot;&quot;&gt;КМС&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-65" value="&lt;span style=&quot;&quot;&gt;КМС&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="-2200" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-66" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-66" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1590" y="-2100" width="620" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-67" value="&lt;span style=&quot;&quot;&gt;2 разряд&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-67" value="&lt;span style=&quot;&quot;&gt;2 разряд&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="-2100" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-68" value="&lt;ul&gt;&lt;li&gt;предварительные&lt;/li&gt;&lt;li&gt;финальные&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-68" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;финальные&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1110" y="-2100" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-69" value="&lt;span style=&quot;&quot;&gt;1 разряд&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-69" value="&lt;span style=&quot;&quot;&gt;1 разряд&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="-2100" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-70" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-70" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1590" y="-2000" width="620" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-71" value="1 разряд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-71" value="1 разряд" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="-2000" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-72" value="&lt;ul&gt;&lt;li&gt;предварительные&lt;/li&gt;&lt;li&gt;полуфинальные&lt;/li&gt;&lt;li&gt;финальные&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-72" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;финальные&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1110" y="-2000" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-73" value="КМС" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-73" value="КМС" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="-2000" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-74" value="3 разряд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-74" value="3 разряд" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="-1900" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-75" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-75" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1590" y="-1900" width="620" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-76" value="&lt;ul&gt;&lt;li&gt;финальные&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-76" value="&lt;ul&gt;&lt;li&gt;финальные&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1110" y="-1900" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-77" value="3 разряд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-77" value="3 разряд" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="-1900" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-78" value="3 разряд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-78" value="3 разряд" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="-1800" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-80" value="17 человек&lt;br&gt;&lt;ul&gt;&lt;li&gt;12 спортсменов: 6 юниоров, 6 юниорок&lt;/li&gt;&lt;li&gt;1 тренер&lt;/li&gt;&lt;li&gt;1 представитель&lt;/li&gt;&lt;li&gt;3 судьи&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-80" value="17 человек&lt;br&gt;&lt;ul&gt;&lt;li&gt;12 спортсменов: 6 юниоров, 6 юниорок&lt;/li&gt;&lt;li&gt;1 тренер&lt;/li&gt;&lt;li&gt;1 представитель&lt;/li&gt;&lt;li&gt;3 судьи&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1270" y="-1800" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-81" value="&lt;ul&gt;&lt;li&gt;предварительные&lt;/li&gt;&lt;li&gt;финальные&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-81" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;финальные&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1110" y="-1800" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-82" value="2 разряд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-82" value="2 разряд" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="-1800" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-83" value="&lt;ul&gt;&lt;li&gt;Республиканская Спартакиада детско-юношеских спортивных школ&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-83" value="&lt;ul&gt;&lt;li&gt;Республиканская Спартакиада детско-юношеских спортивных школ&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1590" y="-1800" width="620" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-84" value="29 человек&lt;br&gt;&lt;ul&gt;&lt;li&gt;24 спортсмена: 12 (женщины, юниорки, девушки), 12 (мужчины, юниоры, юноши)&lt;/li&gt;&lt;li&gt;2 тренера&lt;/li&gt;&lt;li&gt;1 представитель&lt;/li&gt;&lt;li&gt;2-е судей&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-84" value="29 человек&lt;br&gt;&lt;ul&gt;&lt;li&gt;24 спортсмена: 12 (женщины, юниорки, девушки), 12 (мужчины, юниоры, юноши)&lt;/li&gt;&lt;li&gt;2 тренера&lt;/li&gt;&lt;li&gt;1 представитель&lt;/li&gt;&lt;li&gt;2-е судей&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1270" y="-1700" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-85" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-85" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1590" y="-1700" width="620" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-86" value="1 разряд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-86" value="1 разряд" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="-1700" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-87" value="&lt;ul&gt;&lt;li&gt;предварительные&lt;/li&gt;&lt;li&gt;полуфинальные (50, 100 м)&lt;/li&gt;&lt;li&gt;финальные&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-87" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;финальные&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1110" y="-1700" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-88" value="КМС" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-88" value="КМС" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="-1700" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-89" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-89" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1590" y="-1600" width="620" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-90" value="25 человек&lt;br&gt;&lt;ul&gt;&lt;li&gt;20 спортсменов: 10 (женщины, юниорки, девушки), 10 (мужчины, юниоры, юноши)&lt;/li&gt;&lt;li&gt;1 тренер&lt;/li&gt;&lt;li&gt;1 представитель&lt;/li&gt;&lt;li&gt;3 судьи&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-90" value="25 человек&lt;br&gt;&lt;ul&gt;&lt;li&gt;20 спортсменов: 10 (женщины, юниорки, девушки), 10 (мужчины, юниоры, юноши)&lt;/li&gt;&lt;li&gt;1 тренер&lt;/li&gt;&lt;li&gt;1 представитель&lt;/li&gt;&lt;li&gt;3 судьи&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1270" y="-1600" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-91" value="&lt;ul&gt;&lt;li&gt;предварительные&lt;/li&gt;&lt;li&gt;полуфинальные (50, 100 м)&lt;/li&gt;&lt;li&gt;финальные&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-91" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;финальные&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1110" y="-1600" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-92" value="КМС" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-92" value="КМС" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="-1600" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-93" value="1 разряд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-93" value="1 разряд" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="-1600" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-94" value="29 человек&lt;br&gt;&lt;ul&gt;&lt;li&gt;24 спортсмена: 12 юниоров, 12 юниорок&lt;/li&gt;&lt;li&gt;1 тренер&lt;/li&gt;&lt;li&gt;1 представитель&lt;/li&gt;&lt;li&gt;3 судьи&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-94" value="29 человек&lt;br&gt;&lt;ul&gt;&lt;li&gt;24 спортсмена: 12 юниоров, 12 юниорок&lt;/li&gt;&lt;li&gt;1 тренер&lt;/li&gt;&lt;li&gt;1 представитель&lt;/li&gt;&lt;li&gt;3 судьи&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1270" y="-2200" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-95" value="29 человек&lt;br&gt;&lt;ul&gt;&lt;li&gt;24 спортсмена: 12 юниоров, 12 юниорок&lt;/li&gt;&lt;li&gt;1 тренер&lt;/li&gt;&lt;li&gt;1 представитель&lt;/li&gt;&lt;li&gt;3 судьи&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-95" value="29 человек&lt;br&gt;&lt;ul&gt;&lt;li&gt;24 спортсмена: 12 юниоров, 12 юниорок&lt;/li&gt;&lt;li&gt;1 тренер&lt;/li&gt;&lt;li&gt;1 представитель&lt;/li&gt;&lt;li&gt;3 судьи&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1270" y="-2100" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-96" value="29 человек&lt;br&gt;&lt;ul&gt;&lt;li&gt;24 спортсмена: 12 (женщины, юниорки, девушки), 12 (мужчины, юниоры, юноши)&lt;/li&gt;&lt;li&gt;1 тренер&lt;/li&gt;&lt;li&gt;1 представитель&lt;/li&gt;&lt;li&gt;3 судьи&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-96" value="29 человек&lt;br&gt;&lt;ul&gt;&lt;li&gt;24 спортсмена: 12 (женщины, юниорки, девушки), 12 (мужчины, юниоры, юноши)&lt;/li&gt;&lt;li&gt;1 тренер&lt;/li&gt;&lt;li&gt;1 представитель&lt;/li&gt;&lt;li&gt;3 судьи&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1270" y="-2000" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-97" value="25 человек&lt;br&gt;&lt;ul&gt;&lt;li&gt;20 спортсменов: 10 юношей, 10 девушек&lt;/li&gt;&lt;li&gt;1 тренер&lt;/li&gt;&lt;li&gt;1 представитель&lt;/li&gt;&lt;li&gt;3 судьи&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-97" value="25 человек&lt;br&gt;&lt;ul&gt;&lt;li&gt;20 спортсменов: 10 юношей, 10 девушек&lt;/li&gt;&lt;li&gt;1 тренер&lt;/li&gt;&lt;li&gt;1 представитель&lt;/li&gt;&lt;li&gt;3 судьи&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1270" y="-1900" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-98" value="ГОРОДСКИЕ СОРЕВНОВАНИЯ" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-98" value="ГОРОДСКИЕ СОРЕВНОВАНИЯ" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="20" y="-2320" width="2010" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-99" value="&lt;div&gt;Первенство г.Минска&lt;/div&gt;&lt;div&gt;«Олимпийские&lt;/div&gt;&lt;div&gt;надежды»&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-99" value="&lt;div&gt;Первенство г.Минска&lt;/div&gt;&lt;div&gt;«Олимпийские&lt;/div&gt;&lt;div&gt;надежды»&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="-1500" width="190" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-100" value="28.09.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-100" value="28.09.2022" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="-1500" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-101" value="30.09.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-101" value="30.09.2022" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="-1500" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-102" value="3 дня" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-102" value="3 дня" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="-1500" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-103" value="СОК «Трактор», ДЮСШ «Янтарь»,&lt;br&gt;25 м" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-103" value="СОК «Трактор», ДЮСШ «Янтарь»,&lt;br&gt;25 м" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="-1500" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-104" value="младшая возрастная группа:&lt;br&gt;юниоры 2006-2007 г.р.&lt;br&gt;юниорки 2007- 2008 г.р" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-104" value="младшая возрастная группа:&lt;br&gt;юниоры 2006-2007 г.р.&lt;br&gt;юниорки 2007- 2008 г.р" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="-1500" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-105" value="8" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-105" value="8" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="-1500" width="30" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-106" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-106" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1590" y="-1500" width="620" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-107" value="25 человек&lt;br&gt;&lt;ul&gt;&lt;li&gt;20 спортсмена: 10 юношей, 10 деаушек&lt;/li&gt;&lt;li&gt;1 тренер&lt;/li&gt;&lt;li&gt;1 представитель&lt;/li&gt;&lt;li&gt;3 судей&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-107" value="25 человек&lt;br&gt;&lt;ul&gt;&lt;li&gt;20 спортсмена: 10 юношей, 10 деаушек&lt;/li&gt;&lt;li&gt;1 тренер&lt;/li&gt;&lt;li&gt;1 представитель&lt;/li&gt;&lt;li&gt;3 судей&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1270" y="-1500" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-108" value="&lt;ul&gt;&lt;li&gt;предварительные&lt;/li&gt;&lt;li&gt;полуфинальные (50, 100 м)&lt;/li&gt;&lt;li&gt;финальные&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-108" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;финальные&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1110" y="-1500" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-109" value="3 разряд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-109" value="3 разряд" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="-1500" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-110" value="1 юношеский" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-110" value="1 юношеский" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="-1500" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-111" value="02.11.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-111" value="02.11.2022" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="-1400" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-112" value="04.11.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-112" value="04.11.2022" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="-1400" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-113" value="3 дня" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-113" value="3 дня" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="-1400" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-114" value="СОК «Трактор», ДЮСШ «Янтарь»,&lt;br&gt;25 м" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-114" value="СОК «Трактор», ДЮСШ «Янтарь»,&lt;br&gt;25 м" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="-1400" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-115" value="средняя&amp;nbsp;возрастная группа:&lt;br&gt;юноши 2008-2009 г.р.&lt;br&gt;юниорки 2009- 2010 г.р." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-115" value="средняя&amp;nbsp;возрастная группа:&lt;br&gt;юноши 2008-2009 г.р.&lt;br&gt;юниорки 2009- 2010 г.р." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="-1400" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-116" value="07.12.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-116" value="07.12.2022" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="-1300" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-117" value="09.12.2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-117" value="09.12.2022" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="-1300" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-118" value="3 дня" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-118" value="3 дня" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="-1300" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-119" value="СОК «Трактор», ДЮСШ «Янтарь»,&lt;br&gt;25 м" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-119" value="СОК «Трактор», ДЮСШ «Янтарь»,&lt;br&gt;25 м" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="-1300" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-120" value="старшая&amp;nbsp;возрастная группа:&lt;br&gt;&lt;div&gt;юноши 2010 г.р. и моложе&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;девушки 2011 г.р. и моложе&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-120" value="старшая&amp;nbsp;возрастная группа:&lt;br&gt;&lt;div&gt;юноши 2010 г.р. и моложе&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;девушки 2011 г.р. и моложе&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="-1300" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-121" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-121" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1590" y="-1400" width="620" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-122" value="25 человек&lt;br&gt;&lt;ul&gt;&lt;li&gt;20 спортсмена: 10 юношей, 10 деаушек&lt;/li&gt;&lt;li&gt;1 тренер&lt;/li&gt;&lt;li&gt;1 представитель&lt;/li&gt;&lt;li&gt;3 судей&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-122" value="25 человек&lt;br&gt;&lt;ul&gt;&lt;li&gt;20 спортсмена: 10 юношей, 10 деаушек&lt;/li&gt;&lt;li&gt;1 тренер&lt;/li&gt;&lt;li&gt;1 представитель&lt;/li&gt;&lt;li&gt;3 судей&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1270" y="-1400" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-123" value="&lt;ul&gt;&lt;li&gt;предварительные&lt;/li&gt;&lt;li&gt;полуфинальные (50, 100 м)&lt;/li&gt;&lt;li&gt;финальные&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-123" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;финальные&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1110" y="-1400" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-124" value="2 разряд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-124" value="2 разряд" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="-1400" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-125" value="3 разряд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-125" value="3 разряд" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="-1400" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-126" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-126" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1590" y="-1300" width="620" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-127" value="25 человек&lt;br&gt;&lt;ul&gt;&lt;li&gt;20 спортсмена: 10 юношей, 10 деаушек&lt;/li&gt;&lt;li&gt;1 тренер&lt;/li&gt;&lt;li&gt;1 представитель&lt;/li&gt;&lt;li&gt;3 судей&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-127" value="25 человек&lt;br&gt;&lt;ul&gt;&lt;li&gt;20 спортсмена: 10 юношей, 10 деаушек&lt;/li&gt;&lt;li&gt;1 тренер&lt;/li&gt;&lt;li&gt;1 представитель&lt;/li&gt;&lt;li&gt;3 судей&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1270" y="-1300" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-128" value="&lt;ul&gt;&lt;li&gt;предварительные&lt;/li&gt;&lt;li&gt;полуфинальные (50, 100 м)&lt;/li&gt;&lt;li&gt;финальные&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-128" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;финальные&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1110" y="-1300" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-129" value="1 разряд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-129" value="1 разряд" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="-1300" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-130" value="2 разряд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-130" value="2 разряд" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="-1300" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-131" value="Участвующие организации" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-131" value="Участвующие организации" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" parent="1" vertex="1">
           <mxGeometry x="750" y="-2260" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-132" value="СУСУ и другие команды г. Минска" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-132" value="СУСУ и другие команды г. Минска" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="-2200" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-133" value="СУСУ и другие команды г. Минска" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-133" value="СУСУ и другие команды г. Минска" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="-2100" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-134" value="СУСУ и другие команды г. Минска" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-134" value="СУСУ и другие команды г. Минска" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="-2000" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-135" value="СУСУ и другие команды г. Минска" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-135" value="СУСУ и другие команды г. Минска" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="-1900" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-136" value="СУСУ г. Минска" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-136" value="СУСУ г. Минска" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="-1800" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-137" value="СУСУ и другие команды г. Минска" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-137" value="СУСУ и другие команды г. Минска" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="-1700" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-138" value="СУСУ и другие команды г. Минска" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-138" value="СУСУ и другие команды г. Минска" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="-1600" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-139" value="СУСУ и другие команды г. Минска" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-139" value="СУСУ и другие команды г. Минска" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="-1500" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-141" value="СУСУ и другие команды г. Минска" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-141" value="СУСУ и другие команды г. Минска" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="-1400" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-142" value="СУСУ и другие команды г. Минска" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-142" value="СУСУ и другие команды г. Минска" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="-1300" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-143" value="&lt;div&gt;Характер&lt;/div&gt;&lt;div&gt;соревнований&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-143" value="&lt;div&gt;Характер&lt;/div&gt;&lt;div&gt;соревнований&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" parent="1" vertex="1">
           <mxGeometry x="840" y="-2260" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-144" value="&lt;div&gt;лично&lt;/div&gt;&lt;div&gt;командные&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-144" value="&lt;div&gt;лично&lt;/div&gt;&lt;div&gt;командные&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="-2200" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-145" value="&lt;div&gt;лично&lt;/div&gt;&lt;div&gt;командные&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-145" value="&lt;div&gt;лично&lt;/div&gt;&lt;div&gt;командные&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="-2100" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-146" value="&lt;div&gt;лично&lt;/div&gt;&lt;div&gt;командные&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-146" value="&lt;div&gt;лично&lt;/div&gt;&lt;div&gt;командные&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="-2000" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-147" value="&lt;div&gt;лично&lt;/div&gt;&lt;div&gt;командные&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-147" value="&lt;div&gt;лично&lt;/div&gt;&lt;div&gt;командные&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="-1900" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-148" value="&lt;div&gt;лично&lt;/div&gt;&lt;div&gt;командные&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-148" value="&lt;div&gt;лично&lt;/div&gt;&lt;div&gt;командные&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="-1800" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-149" value="&lt;div&gt;лично&lt;/div&gt;&lt;div&gt;командные&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-149" value="&lt;div&gt;лично&lt;/div&gt;&lt;div&gt;командные&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="-1700" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-150" value="&lt;div&gt;лично&lt;/div&gt;&lt;div&gt;командные&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-150" value="&lt;div&gt;лично&lt;/div&gt;&lt;div&gt;командные&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="-1600" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-151" value="&lt;div&gt;лично&lt;/div&gt;&lt;div&gt;командные&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-151" value="&lt;div&gt;лично&lt;/div&gt;&lt;div&gt;командные&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="-1500" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-152" value="&lt;div&gt;лично&lt;/div&gt;&lt;div&gt;командные&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-152" value="&lt;div&gt;лично&lt;/div&gt;&lt;div&gt;командные&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="-1400" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RJUE6ifd-XNSSPH_16Je-153" value="&lt;div&gt;лично&lt;/div&gt;&lt;div&gt;командные&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RJUE6ifd-XNSSPH_16Je-153" value="&lt;div&gt;лично&lt;/div&gt;&lt;div&gt;командные&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="-1300" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-1" value="4. Участвующие организации и участники соревнований" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-1" value="4. Участвующие организации и участники соревнований" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="20" y="-1169" width="740" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-2" value="&lt;div&gt;В соревнованиях принимают участие спортсмены г.Минска команд ДЮСШ, СДЮШОР, ГЦОР по в/в спорта, специализированных по спорту классов МСВУ, СК ВУЗов и УОР, Клубов по плаванию г. Минска, а также приглашенные спортсмены из других областей и государств.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-2" value="&lt;div&gt;В соревнованиях принимают участие спортсмены г.Минска команд ДЮСШ, СДЮШОР, ГЦОР по в/в спорта, специализированных по спорту классов МСВУ, СК ВУЗов и УОР, Клубов по плаванию г. Минска, а также приглашенные спортсмены из других областей и государств.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="-1130" width="680" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-3" value="Спортсмены, не являющиеся членами ОО «БФП», к участию в соревнованиях не допускаются." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-3" value="Спортсмены, не являющиеся членами ОО «БФП», к участию в соревнованиях не допускаются." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="-1070" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-6" value="1.1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-6" value="1.1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="-1130" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-7" value="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-7" value="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="-1169" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-8" value="1.2" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-8" value="1.2" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="-1070" width="40" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-11" value="Возрастные группы участников в 2022 г." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-11" value="Возрастные группы участников в 2022 г." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="80" y="-1030" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-12" value="&lt;div&gt;Мужчины 2003 г.р. и старше, женщины 2004 г.р. и старше&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(Открытые чемпионаты г.Минска, Открытый Кубок г.Минска).&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-12" value="&lt;div&gt;Мужчины 2003 г.р. и старше, женщины 2004 г.р. и старше&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(Открытые чемпионаты г.Минска, Открытый Кубок г.Минска).&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="-991" width="680" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-13" value="1.3" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-13" value="1.3" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="769" y="-991" width="40" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-15" value="Группа юниоры-юниорки:" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-15" value="Группа юниоры-юниорки:" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="-950" width="680" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-16" value="1.4" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-16" value="1.4" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="769" y="-950" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-17" value="юниоры 2004-2007 г.р., юниорки 2005-2008 г.р.&lt;br&gt;(Первенство г.Минска, Открытые чемпионаты г.Минска, Открытый Кубок г.Минска)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-17" value="юниоры 2004-2007 г.р., юниорки 2005-2008 г.р.&lt;br&gt;(Первенство г.Минска, Открытые чемпионаты г.Минска, Открытый Кубок г.Минска)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="110" y="-920" width="651" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-18" value="1.5" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-18" value="1.5" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="-920" width="40" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-19" value="юниоры 2006-2007 г.р., юниорки 2007-2008 г.р.&lt;br&gt;(Олимпийские Дни молодежи г.Минска, Первенство г.Минска, Открытые чемпионаты и Кубок г.Минска)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-19" value="юниоры 2006-2007 г.р., юниорки 2007-2008 г.р.&lt;br&gt;(Олимпийские Дни молодежи г.Минска, Первенство г.Минска, Открытые чемпионаты и Кубок г.Минска)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="110" y="-880" width="650" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-20" value="1.6" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-20" value="1.6" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="769" y="-880" width="40" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-21" value="юниоры 2007-2008 г.р., юниорки 2009-2010 г.р.&lt;br&gt;(Спартакиада ДЮСШ, СДЮШОР г.Минска, Олимпийские Дни молодежи г.Минска, Первенство г.Минска, Открытые чемпионаты и Кубок г.Минска)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-21" value="юниоры 2007-2008 г.р., юниорки 2009-2010 г.р.&lt;br&gt;(Спартакиада ДЮСШ, СДЮШОР г.Минска, Олимпийские Дни молодежи г.Минска, Первенство г.Минска, Открытые чемпионаты и Кубок г.Минска)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="110" y="-840" width="651" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-22" value="1.7" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-22" value="1.7" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="-840" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-23" value="&lt;div&gt;Группа юноши-девушки:&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-23" value="&lt;div&gt;Группа юноши-девушки:&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="-780" width="680" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-24" value="1.8" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-24" value="1.8" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="769" y="-780" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-25" value="&lt;div&gt;юноши 2008 г.р. и моложе, девушки 2010 г.р. и моложе&lt;/div&gt;&lt;div&gt;(Первенство&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;г.Минска в программе соревнований «Веселый дельфин»).&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-25" value="&lt;div&gt;юноши 2008 г.р. и моложе, девушки 2010 г.р. и моложе&lt;/div&gt;&lt;div&gt;(Первенство&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;г.Минска в программе соревнований «Веселый дельфин»).&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="109" y="-750" width="651" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-26" value="1.9" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-26" value="1.9" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="769" y="-750" width="40" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-27" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-27" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="-1030" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-28" value="6. Программа соревнований, условиях их проведения и определение результатов" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-28" value="6. Программа соревнований, условиях их проведения и определение результатов" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="20" y="-690" width="740" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-29" value="2" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-29" value="2" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="-690" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8aoe56TGXsFwyjtqYAMi-30" value="Допуск при&amp;nbsp;выполнении разряда" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+        <mxCell id="8aoe56TGXsFwyjtqYAMi-30" value="Допуск при&amp;nbsp;выполнении разряда" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" parent="1" vertex="1">
           <mxGeometry x="930" y="-2260" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aMv2vTQ_NW-fySqooBFD-1" value="Каждый спортсмен имеет право стартовать в неограниченном количестве индивидуальных номеров программы и эстафетах.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="aMv2vTQ_NW-fySqooBFD-1" value="Каждый спортсмен имеет право стартовать в неограниченном количестве индивидуальных номеров программы и эстафетах.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="-650" width="680" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aMv2vTQ_NW-fySqooBFD-2" value="В зачет команды идут результаты, показанные спортсменами не более чем в 3-х индивидуальных номерах программы, в соответствии с технической заявкой.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="aMv2vTQ_NW-fySqooBFD-2" value="В зачет команды идут результаты, показанные спортсменами не более чем в 3-х индивидуальных номерах программы, в соответствии с технической заявкой.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="-590" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aMv2vTQ_NW-fySqooBFD-3" value="2.1.1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="aMv2vTQ_NW-fySqooBFD-3" value="2.1.1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="769" y="-650" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aMv2vTQ_NW-fySqooBFD-4" value="2.1.2" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="aMv2vTQ_NW-fySqooBFD-4" value="2.1.2" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="769" y="-590" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sB4uRZ_34EdgybYzp_Q1-1" value="&lt;span style=&quot;background-color: initial;&quot;&gt;1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="sB4uRZ_34EdgybYzp_Q1-1" value="&lt;span style=&quot;background-color: initial;&quot;&gt;1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="20" y="-650" width="50" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="sB4uRZ_34EdgybYzp_Q1-2" value="В каждом номере программы в зачет команды идут результаты не более 2-х спортсменов и одной эстафеты (отдельно у юниорок и юниоров)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="sB4uRZ_34EdgybYzp_Q1-2" value="В каждом номере программы в зачет команды идут результаты не более 2-х спортсменов и одной эстафеты (отдельно у юниорок и юниоров)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="-540" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sB4uRZ_34EdgybYzp_Q1-3" value="В случае участия более одной команды в эстафетном плавании от СУСУ в зачет идет результат только одной, остальные участвуют лично." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="sB4uRZ_34EdgybYzp_Q1-3" value="В случае участия более одной команды в эстафетном плавании от СУСУ в зачет идет результат только одной, остальные участвуют лично." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="-490" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sB4uRZ_34EdgybYzp_Q1-4" value="Общекомандное&amp;nbsp;первенство определяется только среди команд СУСУ г.Минска" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="sB4uRZ_34EdgybYzp_Q1-4" value="Общекомандное&amp;nbsp;первенство определяется только среди команд СУСУ г.Минска" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="-440" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sB4uRZ_34EdgybYzp_Q1-5" value="2.1.3" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="sB4uRZ_34EdgybYzp_Q1-5" value="2.1.3" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="-540" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sB4uRZ_34EdgybYzp_Q1-6" value="2.1.4" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="sB4uRZ_34EdgybYzp_Q1-6" value="2.1.4" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="-490" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sB4uRZ_34EdgybYzp_Q1-7" value="2.1.5" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="sB4uRZ_34EdgybYzp_Q1-7" value="2.1.5" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="-440" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sB4uRZ_34EdgybYzp_Q1-8" value="&lt;span style=&quot;background-color: initial;&quot;&gt;2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="sB4uRZ_34EdgybYzp_Q1-8" value="&lt;span style=&quot;background-color: initial;&quot;&gt;2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="20" y="-270" width="50" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-1" value="Каждый спортсмен имеет право стартовать в неограниченном количестве индивидуальных номеров программы и эстафетах." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-1" value="Каждый спортсмен имеет право стартовать в неограниченном количестве индивидуальных номеров программы и эстафетах." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="-270" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-2" value="Начислять очки при выполнении разряда" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-2" value="Начислять очки при выполнении разряда" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" parent="1" vertex="1">
           <mxGeometry x="1020" y="-2260" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-3" value="Состав команды" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-3" value="Состав команды" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" parent="1" vertex="1">
           <mxGeometry x="1270" y="-2260" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-4" value="В зачет команды идут результаты, показанные спортсменами не более чем в 3-х индивидуальных номерах программы, в соответствии с технической заявкой." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-4" value="В зачет команды идут результаты, показанные спортсменами не более чем в 3-х индивидуальных номерах программы, в соответствии с технической заявкой." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="-220" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-5" value="В каждом номере программы в зачет команды идут результаты не более 2-х спортсменов и одной эстафеты (отдельному юниорок и юниоров).&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-5" value="В каждом номере программы в зачет команды идут результаты не более 2-х спортсменов и одной эстафеты (отдельному юниорок и юниоров).&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="-170" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-6" value="&lt;div&gt;В случае участия более одной команды в эстафетном плавании от СУСУ в зачет идет результат только одной, остальные участвуют лично.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-6" value="&lt;div&gt;В случае участия более одной команды в эстафетном плавании от СУСУ в зачет идет результат только одной, остальные участвуют лично.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="-120" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-7" value="&lt;div&gt;Общекомандное первенство определяется по наибольшей сумме очков, набранных участниками соревнований во всех индивидуальных номерах программы и эстафетном плавании.&lt;br&gt;При этом очки в индивидуальных номерах программы начисляются первым 10 спортсменам у юниорок и юниоров при условии выполнения норматива 1 разряда и стартующих за команду СУСУ (см. главу «Порядок определения и награждения победителей (призеров)»).&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-7" value="&lt;div&gt;Общекомандное первенство определяется по наибольшей сумме очков, набранных участниками соревнований во всех индивидуальных номерах программы и эстафетном плавании.&lt;br&gt;При этом очки в индивидуальных номерах программы начисляются первым 10 спортсменам у юниорок и юниоров при условии выполнения норматива 1 разряда и стартующих за команду СУСУ (см. главу «Порядок определения и награждения победителей (призеров)»).&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="-30" width="680" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-8" value="&lt;div&gt;Победители определяются по лучшему результату, показанному спортсменами в заплывах в каждом номере программы.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-8" value="&lt;div&gt;Победители определяются по лучшему результату, показанному спортсменами в заплывах в каждом номере программы.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="60" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-9" value="&lt;div&gt;Общекомандное первенство определяется только среди команд СУСУ г.Минска&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-9" value="&lt;div&gt;Общекомандное первенство определяется только среди команд СУСУ г.Минска&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="-70" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-10" value="Общекомандное&amp;nbsp;первенство определяется по наибольшей сумме очков, набранных участниками соревнований во всех индивидуальных номерах программы и эстафетном плавании.&lt;br&gt;При этом очки в индивидуальных номерах программы начисляются первым 10 спортсменам у юниорок и юниоров при условии выполнения норматива кандидата в мастера спорта Республики Беларусь и стартующих за команду СУСУ (см. главу «Порядок определения и награждения победителей (призеров)»)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-10" value="Общекомандное&amp;nbsp;первенство определяется по наибольшей сумме очков, набранных участниками соревнований во всех индивидуальных номерах программы и эстафетном плавании.&lt;br&gt;При этом очки в индивидуальных номерах программы начисляются первым 10 спортсменам у юниорок и юниоров при условии выполнения норматива кандидата в мастера спорта Республики Беларусь и стартующих за команду СУСУ (см. главу «Порядок определения и награждения победителей (призеров)»)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="-400" width="680" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-11" value="Победители определяются по лучшему результату, показанному спортсменами в заплывах в каждом номере программы." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-11" value="Победители определяются по лучшему результату, показанному спортсменами в заплывах в каждом номере программы." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="-320" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-12" value="2.1.6" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-12" value="2.1.6" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="-400" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-13" value="2.1.7" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-13" value="2.1.7" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="-320" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-14" value="2.2.1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-14" value="2.2.1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="-270" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-15" value="2.2.2" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-15" value="2.2.2" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="-220" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-17" value="2.2.3" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-17" value="2.2.3" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="-170" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-18" value="2.2.4" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-18" value="2.2.4" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="-120" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-19" value="2.2.5" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-19" value="2.2.5" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="-70" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-20" value="2.2.6" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-20" value="2.2.6" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="-30" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-21" value="2.2.7" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-21" value="2.2.7" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="60" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-22" value="&lt;span style=&quot;background-color: initial;&quot;&gt;3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-22" value="&lt;span style=&quot;background-color: initial;&quot;&gt;3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="20" y="110" width="50" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-23" value="Каждый спортсмен имеет право стартовать в неограниченном количестве индивидуальных номеров программы и эстафетах." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-23" value="Каждый спортсмен имеет право стартовать в неограниченном количестве индивидуальных номеров программы и эстафетах." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="110" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-24" value="В зачет команды идут результаты не более чем в 3-х индивидуальных номерах программы, в соответствии с технической заявкой." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-24" value="В зачет команды идут результаты не более чем в 3-х индивидуальных номерах программы, в соответствии с технической заявкой." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="160" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-25" value="В каждом номере программы в зачет команды идут результаты нс более 2-х спортсменов и одной эстафеты (отдельно у женщин и мужчин).&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-25" value="В каждом номере программы в зачет команды идут результаты нс более 2-х спортсменов и одной эстафеты (отдельно у женщин и мужчин).&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="210" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-26" value="&lt;div&gt;В случае участия более одной команды в эстафетном плавании от СУСУ в зачет идет результат только одной, остальные участвуют лично.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-26" value="&lt;div&gt;В случае участия более одной команды в эстафетном плавании от СУСУ в зачет идет результат только одной, остальные участвуют лично.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="260" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-27" value="Общекомандное первенство определяется только среди команд СУСУ г.Минска по наибольшей сумме очков, набранных участниками соревнований во всех индивидуальных номерах программы и эстафетном плавании.&lt;br&gt;При этом очки в индивидуальных номерах программы начисляются первым 10 спортсменам у мужчин и женщин при условии выполнения норматива кандидата в мастера спорта Республики Беларусь и стартующих за команду СУСУ (см. главу «Порядок определения и награждения победителей (призеров)»).&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-27" value="Общекомандное первенство определяется только среди команд СУСУ г.Минска по наибольшей сумме очков, набранных участниками соревнований во всех индивидуальных номерах программы и эстафетном плавании.&lt;br&gt;При этом очки в индивидуальных номерах программы начисляются первым 10 спортсменам у мужчин и женщин при условии выполнения норматива кандидата в мастера спорта Республики Беларусь и стартующих за команду СУСУ (см. главу «Порядок определения и награждения победителей (призеров)»).&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="350" width="680" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-28" value="&lt;div&gt;Иногородние спортсмены, спортсмены сборных команд ВУЗов и УОР не влияют на распределение мест в командном первенстве, но имеют право на участие в личном первенстве.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-28" value="&lt;div&gt;Иногородние спортсмены, спортсмены сборных команд ВУЗов и УОР не влияют на распределение мест в командном первенстве, но имеют право на участие в личном первенстве.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="440" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-29" value="&lt;div&gt;Общекомандное первенство определяется только среди команд СУСУ г.Минска&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-29" value="&lt;div&gt;Общекомандное первенство определяется только среди команд СУСУ г.Минска&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="310" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-30" value="2.3.1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-30" value="2.3.1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="110" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-31" value="2.3.2" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-31" value="2.3.2" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="160" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-32" value="2.3.3" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-32" value="2.3.3" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="210" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-33" value="2.3.4" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-33" value="2.3.4" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="260" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-34" value="2.3.5" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-34" value="2.3.5" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="310" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-35" value="2.3.6" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-35" value="2.3.6" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="350" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g4q5jHJyPhxphNx-bbKh-36" value="2.3.7" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="g4q5jHJyPhxphNx-bbKh-36" value="2.3.7" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="440" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DulVQb4l0Y3VhftXTH-r-1" value="&lt;div&gt;Победители определяются по лучшему результату, показанному спортсменами в заплывах в каждом номере программы.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="DulVQb4l0Y3VhftXTH-r-1" value="&lt;div&gt;Победители определяются по лучшему результату, показанному спортсменами в заплывах в каждом номере программы.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="480" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DulVQb4l0Y3VhftXTH-r-2" value="2.3.8" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="DulVQb4l0Y3VhftXTH-r-2" value="2.3.8" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="769" y="480" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DulVQb4l0Y3VhftXTH-r-3" value="&lt;span style=&quot;background-color: initial;&quot;&gt;4&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="DulVQb4l0Y3VhftXTH-r-3" value="&lt;span style=&quot;background-color: initial;&quot;&gt;4&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="20" y="530" width="50" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="DulVQb4l0Y3VhftXTH-r-4" value="&lt;div&gt;Каждый участник выступает в многоборье только на 3-х дистанциях: 400м в/ст; 200м к/пл и 100м - способ по выбору.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="DulVQb4l0Y3VhftXTH-r-4" value="&lt;div&gt;Каждый участник выступает в многоборье только на 3-х дистанциях: 400м в/ст; 200м к/пл и 100м - способ по выбору.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="530" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DulVQb4l0Y3VhftXTH-r-5" value="Очки начисляются спортсменам на каждой дистанции, при условии выполнения 3 разряда (см. «Таблицу для подсчета очков № 1.2»; см. главу «Порядок определения и награждения победителей (призеров)»).&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="DulVQb4l0Y3VhftXTH-r-5" value="Очки начисляются спортсменам на каждой дистанции, при условии выполнения 3 разряда (см. «Таблицу для подсчета очков № 1.2»; см. главу «Порядок определения и награждения победителей (призеров)»).&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="570" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DulVQb4l0Y3VhftXTH-r-6" value="Личное место участника соревнований определяется по сумме очков, набранных на 3-х дистанциях." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="DulVQb4l0Y3VhftXTH-r-6" value="Личное место участника соревнований определяется по сумме очков, набранных на 3-х дистанциях." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="620" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DulVQb4l0Y3VhftXTH-r-7" value="&lt;div&gt;Командное первенство определяется по сумме очков, набранных участниками команд во всех индивидуальных номерах программы и эстафетном плавании.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="DulVQb4l0Y3VhftXTH-r-7" value="&lt;div&gt;Командное первенство определяется по сумме очков, набранных участниками команд во всех индивидуальных номерах программы и эстафетном плавании.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="660" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DulVQb4l0Y3VhftXTH-r-8" value="&lt;div&gt;Победители определяются по лучшему результату, показанному спортсменами в заплывах в каждом номере программы.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="DulVQb4l0Y3VhftXTH-r-8" value="&lt;div&gt;Победители определяются по лучшему результату, показанному спортсменами в заплывах в каждом номере программы.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="750" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DulVQb4l0Y3VhftXTH-r-9" value="&lt;div&gt;Отбор на первенство Республики Беларусь в программе соревнований «Веселый дельфин» будет проводиться по результатам многоборья - первые 10 юношей и 10 девушек по сумме очков, набранных на 3-х дистанциях, составят сборную команду г.Минска.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="DulVQb4l0Y3VhftXTH-r-9" value="&lt;div&gt;Отбор на первенство Республики Беларусь в программе соревнований «Веселый дельфин» будет проводиться по результатам многоборья - первые 10 юношей и 10 девушек по сумме очков, набранных на 3-х дистанциях, составят сборную команду г.Минска.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80.5" y="790" width="680" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DulVQb4l0Y3VhftXTH-r-10" value="&lt;div&gt;В случае участия более одной команды в эстафетном плавании от СУСУ в зачет идет результат только одной команды, остальные участвуют лично.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="DulVQb4l0Y3VhftXTH-r-10" value="&lt;div&gt;В случае участия более одной команды в эстафетном плавании от СУСУ в зачет идет результат только одной команды, остальные участвуют лично.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="710" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DulVQb4l0Y3VhftXTH-r-11" value="2.4.1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="DulVQb4l0Y3VhftXTH-r-11" value="2.4.1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="771" y="530" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DulVQb4l0Y3VhftXTH-r-12" value="2.4.2" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="DulVQb4l0Y3VhftXTH-r-12" value="2.4.2" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="772" y="570" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DulVQb4l0Y3VhftXTH-r-13" value="2.4.3" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="DulVQb4l0Y3VhftXTH-r-13" value="2.4.3" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="772" y="620" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DulVQb4l0Y3VhftXTH-r-14" value="2.4.4" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="DulVQb4l0Y3VhftXTH-r-14" value="2.4.4" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="771" y="660" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DulVQb4l0Y3VhftXTH-r-15" value="2.4.5" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="DulVQb4l0Y3VhftXTH-r-15" value="2.4.5" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="771" y="710" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DulVQb4l0Y3VhftXTH-r-16" value="2.4.6" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="DulVQb4l0Y3VhftXTH-r-16" value="2.4.6" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="771" y="750" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DulVQb4l0Y3VhftXTH-r-17" value="2.4.7" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="DulVQb4l0Y3VhftXTH-r-17" value="2.4.7" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="771" y="790" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DulVQb4l0Y3VhftXTH-r-20" value="&lt;span style=&quot;background-color: initial;&quot;&gt;5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="DulVQb4l0Y3VhftXTH-r-20" value="&lt;span style=&quot;background-color: initial;&quot;&gt;5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="20" y="1050" width="50" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-1" value="Таблица для подсчёта очков в первенстве г.Минска «Веселый дельфин»" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-1" value="Таблица для подсчёта очков в первенстве г.Минска «Веселый дельфин»" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="81" y="850" width="679" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-2" value="1 место = 70&lt;br&gt;2 место = 69&lt;br&gt;3 место = 68" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-2" value="1 место = 70&lt;br&gt;2 место = 69&lt;br&gt;3 место = 68" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="81" y="890" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-3" value="68 место = 3&lt;br&gt;69 место = 2&lt;br&gt;70 место = 1&lt;br&gt;71 место и далее = 0.5" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-3" value="68 место = 3&lt;br&gt;69 место = 2&lt;br&gt;70 место = 1&lt;br&gt;71 место и далее = 0.5" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="539" y="890" width="221" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-4" value="...&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-4" value="...&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="309" y="890" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-5" value="Результаты показанные в эстафетном плавании оцениваются с коэффициентом 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-5" value="Результаты показанные в эстафетном плавании оцениваются с коэффициентом 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="81" y="990" width="679" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-6" value="&lt;b&gt;[1 .. 70 место: n место = 70 + 1 - n]&lt;br&gt;[71 .. место: n место = 0.5]&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-6" value="&lt;b&gt;[1 .. 70 место: n место = 70 + 1 - n]&lt;br&gt;[71 .. место: n место = 0.5]&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="81" y="950" width="679" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-7" value="2.4.8" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-7" value="2.4.8" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="769" y="850" width="40" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-8" value="Победители определяются по лучшему результату, показанному спортсменами в заплывах в каждом номере программы." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-8" value="Победители определяются по лучшему результату, показанному спортсменами в заплывах в каждом номере программы." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="-320" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-9" value="Общекомандное&amp;nbsp;первенство определяется по наибольшей сумме очков, набранных участниками соревнований во всех индивидуальных номерах программы и эстафетном плавании.&lt;br&gt;При этом очки в индивидуальных номерах программы начисляются первым 10 спортсменам у юниорок и юниоров при условии выполнения норматива кандидата в мастера спорта Республики Беларусь и стартующих за команду СУСУ (см. главу «Порядок определения и награждения победителей (призеров)»)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-9" value="Общекомандное&amp;nbsp;первенство определяется по наибольшей сумме очков, набранных участниками соревнований во всех индивидуальных номерах программы и эстафетном плавании.&lt;br&gt;При этом очки в индивидуальных номерах программы начисляются первым 10 спортсменам у юниорок и юниоров при условии выполнения норматива кандидата в мастера спорта Республики Беларусь и стартующих за команду СУСУ (см. главу «Порядок определения и награждения победителей (призеров)»)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="-400" width="680" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-10" value="Общекомандное&amp;nbsp;первенство определяется только среди команд СУСУ г.Минска" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-10" value="Общекомандное&amp;nbsp;первенство определяется только среди команд СУСУ г.Минска" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="-440" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-11" value="&lt;div&gt;По итогам данных соревнований две школы-победительницы направляются на Республиканскую Спартакиаду детско-юношеских спортивных школ.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-11" value="&lt;div&gt;По итогам данных соревнований две школы-победительницы направляются на Республиканскую Спартакиаду детско-юношеских спортивных школ.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="1050" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-12" value="&lt;div&gt;Каждый спортсмен имеет право выступать не более чем в 3-х индивидуальных номерах программы, а также эстафетном плавании.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-12" value="&lt;div&gt;Каждый спортсмен имеет право выступать не более чем в 3-х индивидуальных номерах программы, а также эстафетном плавании.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="82" y="1090" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-13" value="&lt;span style=&quot;&quot;&gt;В каждом номере программы от команды может быть заявлено не более 2-х спортсменов и по одной эстафете (отдельно у юниорок и юниоров).&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-13" value="&lt;span style=&quot;&quot;&gt;В каждом номере программы от команды может быть заявлено не более 2-х спортсменов и по одной эстафете (отдельно у юниорок и юниоров).&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="82" y="1130" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-14" value="Общекомандное первенство определяется среди команд СУСУ г. Минска&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-14" value="Общекомандное первенство определяется среди команд СУСУ г. Минска&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="82" y="1169" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-15" value="Победители определяются по лучшему результату, показанному спортсменами в заплывах в каждом номере программы." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-15" value="Победители определяются по лучшему результату, показанному спортсменами в заплывах в каждом номере программы." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="1300" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-17" value="Общекомандное первенство определяется по наибольшей сумме очков, набранных участниками соревнований во всех индивидуальных номерах программы и эстафетном плавании.&lt;br&gt;При этом очки в индивидуальных номерах программы начисляются первым 10 спортсменам у юниорок и юниоров при условии выполнения норматива 2 разряда и стартующих за команду СУСУ, (см. глава «Порядок определения и награждения победителей (призеров)»)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-17" value="Общекомандное первенство определяется по наибольшей сумме очков, набранных участниками соревнований во всех индивидуальных номерах программы и эстафетном плавании.&lt;br&gt;При этом очки в индивидуальных номерах программы начисляются первым 10 спортсменам у юниорок и юниоров при условии выполнения норматива 2 разряда и стартующих за команду СУСУ, (см. глава «Порядок определения и награждения победителей (призеров)»)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="1210" width="680" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-18" value="2.5.1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-18" value="2.5.1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="772" y="1050" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-19" value="2.5.2" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-19" value="2.5.2" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="773" y="1090" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-20" value="2.5.3" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-20" value="2.5.3" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="773" y="1130" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-21" value="2.5.4" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-21" value="2.5.4" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="773" y="1169" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-22" value="2.5.5" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-22" value="2.5.5" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="772" y="1210" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-23" value="2.5.6" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-23" value="2.5.6" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="772" y="1300" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-25" value="&lt;span style=&quot;background-color: initial;&quot;&gt;6&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-25" value="&lt;span style=&quot;background-color: initial;&quot;&gt;6&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="20" y="1350" width="50" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-26" value="Каждый спортсмен имеет право стартовать в неограниченном количестве индивидуальных номеров программы и эстафетах." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-26" value="Каждый спортсмен имеет право стартовать в неограниченном количестве индивидуальных номеров программы и эстафетах." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="1350" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-27" value="В зачет команды идут результаты, показанные спортсменами не более чем в 3-х индивидуальных номерах программы, в соответствии с технической заявкой." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-27" value="В зачет команды идут результаты, показанные спортсменами не более чем в 3-х индивидуальных номерах программы, в соответствии с технической заявкой." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="82" y="1390" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-28" value="В каждом номере программы в зачет команды идут результаты не более 2-х спортсменов и одной эстафеты (отдельно у женщин и мужчин)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-28" value="В каждом номере программы в зачет команды идут результаты не более 2-х спортсменов и одной эстафеты (отдельно у женщин и мужчин)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="82" y="1440" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-29" value="&lt;span style=&quot;&quot;&gt;В случае участия более одной команды в эстафетном плавании от СУСУ в зачет идет результат только одной команды, остальные участвуют лично.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-29" value="&lt;span style=&quot;&quot;&gt;В случае участия более одной команды в эстафетном плавании от СУСУ в зачет идет результат только одной команды, остальные участвуют лично.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="1480" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-30" value="Общекомандное первенство определяется по наибольшей сумме очков, набранных участниками соревнований во всех индивидуальных номерах программы и эстафетном плавании.&lt;br&gt;При этом очки в индивидуальных номерах программы начисляются первым 10 спортсменам у мужчин и женщин при условии выполнения норматива кандидата в мастера спорта Республики Беларусь и стартующих за команду СУСУ (см. главу «Порядок определения и награждения победителей (призеров)»).&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-30" value="Общекомандное первенство определяется по наибольшей сумме очков, набранных участниками соревнований во всех индивидуальных номерах программы и эстафетном плавании.&lt;br&gt;При этом очки в индивидуальных номерах программы начисляются первым 10 спортсменам у мужчин и женщин при условии выполнения норматива кандидата в мастера спорта Республики Беларусь и стартующих за команду СУСУ (см. главу «Порядок определения и награждения победителей (призеров)»).&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="1570" width="680" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-31" value="Победители определяются по лучшему результату, показанному спортсменами в заплывах в каждом номере программы." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-31" value="Победители определяются по лучшему результату, показанному спортсменами в заплывах в каждом номере программы." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="1700" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-32" value="Общекомандное первенство определяется только среди команд СУСУ г.Минска" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-32" value="Общекомандное первенство определяется только среди команд СУСУ г.Минска" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="1530" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-33" value="2.6.1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-33" value="2.6.1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="772" y="1350" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-34" value="2.6.2" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-34" value="2.6.2" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="773" y="1390" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-35" value="2.6.3" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-35" value="2.6.3" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="773" y="1440" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-36" value="2.6.4" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-36" value="2.6.4" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="772" y="1480" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-37" value="2.6.5" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-37" value="2.6.5" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="772" y="1530" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-38" value="2.6.6" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-38" value="2.6.6" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="772" y="1570" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-39" value="2.6.8" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-39" value="2.6.8" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="1699" width="40" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-40" value="Иногородние спортсмены, спортсмены сборных команд ВУЗов и УОР не влияют на распределение мест в командном первенстве, но имеют право на участие в личном первенстве.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-40" value="Иногородние спортсмены, спортсмены сборных команд ВУЗов и УОР не влияют на распределение мест в командном первенстве, но имеют право на участие в личном первенстве.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80.5" y="1660" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-41" value="2.6.7" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-41" value="2.6.7" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="1660" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-42" value="Отборочные для участия" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-42" value="Отборочные для участия" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" parent="1" vertex="1">
           <mxGeometry x="1590" y="-2260" width="620" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-43" value="Заплывы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-43" value="Заплывы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" parent="1" vertex="1">
           <mxGeometry x="1110" y="-2260" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-44" value="&lt;span style=&quot;background-color: initial;&quot;&gt;7&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-44" value="&lt;span style=&quot;background-color: initial;&quot;&gt;7&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="20" y="1750" width="50" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-45" value="Каждый спортсмен имеет право стартовать в неограниченном количестве индивидуальных номеров программы и эстафетах." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-45" value="Каждый спортсмен имеет право стартовать в неограниченном количестве индивидуальных номеров программы и эстафетах." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="1750" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-46" value="В зачет команды идут результаты, показанные спортсменами не более чем в 3-х индивидуальных номерах программы, в соответствии с технической заявкой." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-46" value="В зачет команды идут результаты, показанные спортсменами не более чем в 3-х индивидуальных номерах программы, в соответствии с технической заявкой." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="82" y="1790" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-47" value="В каждом номере программы в зачет команды идут результаты не более 2-х спортсменов и по одной эстафете (отдельно у женщин и мужчин)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-47" value="В каждом номере программы в зачет команды идут результаты не более 2-х спортсменов и по одной эстафете (отдельно у женщин и мужчин)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="82" y="1840" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-48" value="В случае участия более одной команды в эстафетном плавании от СУСУ в зачет идет результат только одной, остальные участвуют лично." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-48" value="В случае участия более одной команды в эстафетном плавании от СУСУ в зачет идет результат только одной, остальные участвуют лично." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="1880" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-49" value="Общекомандпос первенство определяется по наибольшей сумме очков, набранных участниками соревнований во всех индивидуальных номерах программы и эстафетном плавании.&lt;br&gt;При этом очки в индивидуальных номерах программы начисляются первым 10 спортсменам у женщин и мужчин при условии выполнения норматива кандидата в мастера спорта Республики Беларусь и стартующих за команду СУСУ. (см. главу «Порядок определения и награждения победителей (призеров)»)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-49" value="Общекомандпос первенство определяется по наибольшей сумме очков, набранных участниками соревнований во всех индивидуальных номерах программы и эстафетном плавании.&lt;br&gt;При этом очки в индивидуальных номерах программы начисляются первым 10 спортсменам у женщин и мужчин при условии выполнения норматива кандидата в мастера спорта Республики Беларусь и стартующих за команду СУСУ. (см. главу «Порядок определения и награждения победителей (призеров)»)." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="1970" width="680" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-50" value="Победители определяются по лучшему результату, показанному спортсменами в заплывах в каждом номере программы." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-50" value="Победители определяются по лучшему результату, показанному спортсменами в заплывах в каждом номере программы." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="2100" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-51" value="Общекомандное первенство определяется только спели команд СУСУ г.Минска" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-51" value="Общекомандное первенство определяется только спели команд СУСУ г.Минска" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="1930" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-52" value="2.7.1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-52" value="2.7.1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="772" y="1750" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-53" value="2.7.2" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-53" value="2.7.2" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="773" y="1790" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-54" value="2.7.3" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-54" value="2.7.3" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="773" y="1840" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-55" value="2.7.4" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-55" value="2.7.4" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="772" y="1880" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-56" value="2.7.5" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-56" value="2.7.5" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="772" y="1930" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-57" value="2.7.6" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-57" value="2.7.6" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="772" y="1970" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-58" value="2.7.8" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-58" value="2.7.8" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="2099" width="40" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-59" value="Иногородние спортсмены, спортсмены сборных команд ВУЗов и УОР не влияют на распределение мест в командном первенстве, но имеют право на участие в личном первенстве." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-59" value="Иногородние спортсмены, спортсмены сборных команд ВУЗов и УОР не влияют на распределение мест в командном первенстве, но имеют право на участие в личном первенстве." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80.5" y="2060" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-60" value="2.7.7" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-60" value="2.7.7" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="2060" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-61" value="&lt;span style=&quot;background-color: initial;&quot;&gt;8&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-61" value="&lt;span style=&quot;background-color: initial;&quot;&gt;8&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="20" y="2150" width="50" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-62" value="Каждый спортсмен имеет право стартовать в неограниченном количестве индивидуальных номеров программы и эстафетах." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-62" value="Каждый спортсмен имеет право стартовать в неограниченном количестве индивидуальных номеров программы и эстафетах." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="2150" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-63" value="В зачет команды идут результаты, показанные не более чем в 3-х индивидуальных номерах программы, в соответствии с технической заявкой. В каждом номере программы в зачет команды идут результаты, не более 2-х спортсменов и одной эстафеты (отдельно у девушек и юношей).&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-63" value="В зачет команды идут результаты, показанные не более чем в 3-х индивидуальных номерах программы, в соответствии с технической заявкой. В каждом номере программы в зачет команды идут результаты, не более 2-х спортсменов и одной эстафеты (отдельно у девушек и юношей).&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="82" y="2190" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-64" value="&lt;div&gt;В случае участия более одной команды в эстафетном плавании от СУСУ в зачет идет результат только одной, остальные участвуют лично.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-64" value="&lt;div&gt;В случае участия более одной команды в эстафетном плавании от СУСУ в зачет идет результат только одной, остальные участвуют лично.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="82" y="2240" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-65" value="Общекомандное первенство определяется только среди команд СУСУ г.Мннска" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-65" value="Общекомандное первенство определяется только среди команд СУСУ г.Мннска" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="2280" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-66" value="Победители определяются по лучшему результату, показанному спортсменами в заплывах в каждом номере программы." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-66" value="Победители определяются по лучшему результату, показанному спортсменами в заплывах в каждом номере программы." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="2480" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-68" value="&lt;div&gt;Общекомандное первенство определяется по наибольшей сумме очков, набранных участниками соревнований во всех индивидуальных номерах программы и эстафетном плавании.&lt;/div&gt;&lt;div&gt;При этом очки в индивидуальных номерах программы начисляются первым 10 спортсменам у юниоров и юниорок, юношей и девушек,(см. главу «Порядок определения и награждения победителей (призеров)») при условии выполнения норматива и стартующих за команду СУСУ:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;младшая возрастная группа&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;зачет по III разряду&lt;/li&gt;&lt;li&gt;средняя возрастная группа&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;зачет по II разряду&lt;/li&gt;&lt;li&gt;старшая возрастная группа&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;зачет по I разряду&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-68" value="&lt;div&gt;Общекомандное первенство определяется по наибольшей сумме очков, набранных участниками соревнований во всех индивидуальных номерах программы и эстафетном плавании.&lt;/div&gt;&lt;div&gt;При этом очки в индивидуальных номерах программы начисляются первым 10 спортсменам у юниоров и юниорок, юношей и девушек,(см. главу «Порядок определения и награждения победителей (призеров)») при условии выполнения норматива и стартующих за команду СУСУ:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;младшая возрастная группа&lt;span style=&quot;&quot;&gt; &lt;/span&gt;зачет по III разряду&lt;/li&gt;&lt;li&gt;средняя возрастная группа&lt;span style=&quot;&quot;&gt; &lt;/span&gt;зачет по II разряду&lt;/li&gt;&lt;li&gt;старшая возрастная группа&lt;span style=&quot;&quot;&gt; &lt;/span&gt;зачет по I разряду&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="2330" width="680" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-69" value="2.8.1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-69" value="2.8.1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="772" y="2150" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-70" value="2.8.2" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-70" value="2.8.2" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="773" y="2190" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-71" value="2.8.3" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-71" value="2.8.3" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="773" y="2240" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-72" value="2.8.4" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-72" value="2.8.4" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="772" y="2280" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-73" value="2.8.5" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-73" value="2.8.5" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="772" y="2330" width="40" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-74" value="2.8.6" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-74" value="2.8.6" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="772" y="2480" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ak6-BtadCrBCSlgGjtm4-78" value="&lt;span style=&quot;text-align: center;&quot;&gt;9.&amp;nbsp;&lt;/span&gt;ПОРЯДОК ОПРЕДЕЛЕНИЯ И НАГРАЖДЕНИЯ ПОБЕДИТЕЛЕЙ (ПРИЗЕРОВ)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="ak6-BtadCrBCSlgGjtm4-78" value="&lt;span style=&quot;text-align: center;&quot;&gt;9.&amp;nbsp;&lt;/span&gt;ПОРЯДОК ОПРЕДЕЛЕНИЯ И НАГРАЖДЕНИЯ ПОБЕДИТЕЛЕЙ (ПРИЗЕРОВ)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="20" y="2550" width="740" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-1" value="Командное первенство в общекомандных соревнованиях определяется по наибольшей сумме очков, набранных зачетными участниками в индивидуальных номерах программы и эстафетах.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-1" value="Командное первенство в общекомандных соревнованиях определяется по наибольшей сумме очков, набранных зачетными участниками в индивидуальных номерах программы и эстафетах.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80.5" y="2590" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-2" value="Участие спортсменов в личном первенстве не влияет на распределение общекомандных очков.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-2" value="Участие спортсменов в личном первенстве не влияет на распределение общекомандных очков.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="2640" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-3" value="Очки начисляются при условии выполнения квалификационного норматива для конкретных соревнований." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-3" value="Очки начисляются при условии выполнения квалификационного норматива для конкретных соревнований." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="2680" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-4" value="Таблица для подсчета очков на Первенствах, чемпионатах, Кубке и Олимпийских дней молодежи г.Минска, Спартакиаде г.Минска среди детско-юношеских спортивных школ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-4" value="Таблица для подсчета очков на Первенствах, чемпионатах, Кубке и Олимпийских дней молодежи г.Минска, Спартакиаде г.Минска среди детско-юношеских спортивных школ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="81" y="2720" width="679" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-5" value="1 место = 40&lt;br&gt;2 место = 35&lt;br&gt;3 место = 30&lt;br&gt;4 место = 28&lt;br&gt;5 место = 26" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-5" value="1 место = 40&lt;br&gt;2 место = 35&lt;br&gt;3 место = 30&lt;br&gt;4 место = 28&lt;br&gt;5 место = 26" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="80.5" y="2760" width="229.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-6" value="11 место = 14&lt;br&gt;12 место = 12&lt;br&gt;13 место = 10&lt;br&gt;14 место = 8" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-6" value="11 место = 14&lt;br&gt;12 место = 12&lt;br&gt;13 место = 10&lt;br&gt;14 место = 8" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="538" y="2760" width="222" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-7" value="6 место = 24&lt;br&gt;7 место = 22&lt;br&gt;8 место = 20&lt;br&gt;9 место = 18&lt;br&gt;10 место = 16&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-7" value="6 место = 24&lt;br&gt;7 место = 22&lt;br&gt;8 место = 20&lt;br&gt;9 место = 18&lt;br&gt;10 место = 16&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="310" y="2760" width="228" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-8" value="Результаты показанные в эстафетном плавании оцениваются с коэффициентом 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-8" value="Результаты показанные в эстафетном плавании оцениваются с коэффициентом 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="81" y="2880" width="679" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-9" value="&lt;b&gt;[1 .. 3 место: n место = 40 - 5 * (n - 1)]&lt;br&gt;[4 .. 14 место: n место = 28 - 2 * (n - 4)]&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-9" value="&lt;b&gt;[1 .. 3 место: n место = 40 - 5 * (n - 1)]&lt;br&gt;[4 .. 14 место: n место = 28 - 2 * (n - 4)]&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="81" y="2840" width="679" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-10" value="&lt;div&gt;Команда-победительница и команды-призеры в командном первенстве награждается дипломами и памятными призами (кубком) главного управления спорта и туризма Мингорисполкома соответствующих степеней. Победители и призеры в личном первенстве награждаются дипломами и медалями соответствующих степеней.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-10" value="&lt;div&gt;Команда-победительница и команды-призеры в командном первенстве награждается дипломами и памятными призами (кубком) главного управления спорта и туризма Мингорисполкома соответствующих степеней. Победители и призеры в личном первенстве награждаются дипломами и медалями соответствующих степеней.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80.5" y="2930" width="680" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-11" value="&lt;div&gt;Награждение спортсменов за 1-3 места медалями и дипломами производится при условии участия в данном виде программы не менее трех участников. При меньшем количестве участников победитель и призер награждаются только дипломами соответствующих степеней.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-11" value="&lt;div&gt;Награждение спортсменов за 1-3 места медалями и дипломами производится при условии участия в данном виде программы не менее трех участников. При меньшем количестве участников победитель и призер награждаются только дипломами соответствующих степеней.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="2990" width="680" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-12" value="&lt;div&gt;В том случае, если оба спортсмена показывают одинаковое время:&lt;/div&gt;&lt;div&gt;⦁&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;за 1 место награждаются дипломами первой степени, второе место пропускается;&lt;/div&gt;&lt;div&gt;⦁&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;за 2 место награждаются дипломами второй степени, третье место&amp;nbsp;пропускается и т.д.&lt;/div&gt;&lt;div&gt;Очки спортсменам в таких случаях также начисляются в равном количестве, а следующие по таблице очки пропускаются.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-12" value="&lt;div&gt;В том случае, если оба спортсмена показывают одинаковое время:&lt;/div&gt;&lt;div&gt;⦁&lt;span style=&quot;&quot;&gt; &lt;/span&gt;за 1 место награждаются дипломами первой степени, второе место пропускается;&lt;/div&gt;&lt;div&gt;⦁&lt;span style=&quot;&quot;&gt; &lt;/span&gt;за 2 место награждаются дипломами второй степени, третье место&amp;nbsp;пропускается и т.д.&lt;/div&gt;&lt;div&gt;Очки спортсменам в таких случаях также начисляются в равном количестве, а следующие по таблице очки пропускаются.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="3050" width="680" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-14" value="&lt;div&gt;Каждый участник команды в эстафетном плавании, занявшей 1-3 место, награждается дипломом и медалью соответствующей степени.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-14" value="&lt;div&gt;Каждый участник команды в эстафетном плавании, занявшей 1-3 место, награждается дипломом и медалью соответствующей степени.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80.5" y="3140" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-15" value="3" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-15" value="3" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="771" y="2550" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-16" value="3.1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-16" value="3.1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="771" y="2590" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-17" value="3.2" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-17" value="3.2" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="771" y="2640" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-18" value="3.3" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-18" value="3.3" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="771" y="2680" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-19" value="3.4" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-19" value="3.4" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="771" y="2720" width="40" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-20" value="3.5" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-20" value="3.5" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="771" y="2930" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-21" value="3.6" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-21" value="3.6" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="2990" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-22" value="3.7" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-22" value="3.7" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="3050" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-23" value="3.8" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-23" value="3.8" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="770" y="3140" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-24" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;12.ПРИМЕЧАНИЕ&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-24" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;12.ПРИМЕЧАНИЕ&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="20" y="3200" width="740" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-25" value="&lt;div&gt;1.&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;Командное первенство в общекомандных соревнованиях определяется по наибольшей сумме очков, набранных зачетными участниками в индивидуальных номерах программы и эстафетах. Участие спортсменов в личном первенстве не влияет на распределение общекомандных очков.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-25" value="&lt;div&gt;1.&lt;span style=&quot;&quot;&gt; &lt;/span&gt;Командное первенство в общекомандных соревнованиях определяется по наибольшей сумме очков, набранных зачетными участниками в индивидуальных номерах программы и эстафетах. Участие спортсменов в личном первенстве не влияет на распределение общекомандных очков.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80.5" y="3240" width="680" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-26" value="4" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-26" value="4" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="771" y="3200" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-27" value="4.1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-27" value="4.1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="771" y="3240" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-28" value="&lt;div&gt;3.&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;Спортсмены, принимающие участие в соревнованиях «вне конкурса», стартуют только в слабейших заплывах по крайним дорожкам.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-28" value="&lt;div&gt;3.&lt;span style=&quot;&quot;&gt; &lt;/span&gt;Спортсмены, принимающие участие в соревнованиях «вне конкурса», стартуют только в слабейших заплывах по крайним дорожкам.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="3300" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-29" value="4.&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;Победители и призеры, не вышедшие на награждение, лишаются очков, начисленных за данную дистанцию." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-29" value="4.&lt;span style=&quot;&quot;&gt; &lt;/span&gt;Победители и призеры, не вышедшие на награждение, лишаются очков, начисленных за данную дистанцию." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="81" y="3350" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-30" value="6.&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;В случае проведения двоих соревнований в одни сроки, спортсмены выступающие в составе команд могут давать параллельный зачет&amp;nbsp;очков одновременно по двум соревнованиям, согласно поданным техническим заявкам." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-30" value="6.&lt;span style=&quot;&quot;&gt; &lt;/span&gt;В случае проведения двоих соревнований в одни сроки, спортсмены выступающие в составе команд могут давать параллельный зачет&amp;nbsp;очков одновременно по двум соревнованиям, согласно поданным техническим заявкам." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="3390" width="680" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_alz-7OGKFHaX5ao9jSu-31" value="&lt;div&gt;7.&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;В виде исключения в соревнованиях могут проводиться дополнительные заплывы для выполнения квалификационных нормативов. Для организации таких заплывов в главную судейскую коллегию подастся соответствующая заявка нс позднее, чем за 1 час до окончания дня соревнований. В заплыве на каждой дистанции должно участвовать не менее 3-х спортсменов.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="_alz-7OGKFHaX5ao9jSu-31" value="&lt;div&gt;7.&lt;span style=&quot;&quot;&gt; &lt;/span&gt;В виде исключения в соревнованиях могут проводиться дополнительные заплывы для выполнения квалификационных нормативов. Для организации таких заплывов в главную судейскую коллегию подастся соответствующая заявка нс позднее, чем за 1 час до окончания дня соревнований. В заплыве на каждой дистанции должно участвовать не менее 3-х спортсменов.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="3430" width="680" height="60" as="geometry" />
         </mxCell>
       </root>
