@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T14:13:29.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="S0EKVhMbKzswWMSQVQ_7" version="18.2.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-05T16:49:29.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="F4XfitECU9E-4cn-cSmi" version="18.2.1" type="github" pages="4">
   <diagram id="ueC9EN3mQK6EyC93AZKU" name="FileName">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,6 +262,135 @@
         </mxCell>
         <mxCell id="YSQmjL1IiymvAM0oykPz-70" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Result for one event/round.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="970" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-71" value="RELAYS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1140" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-72" value="Data of one relay team." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1160" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-73" value="3.4. Sub tree RELAYS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1040" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-74" value="The RELAYS part is used to describe relay entries and results of one club. The relay swimmers are not&lt;br/&gt;stored directly in this tree. A unique id is stored in the tree in order to reference an athlete in the ATHLETES&lt;br/&gt;sub tree." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1080" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-75" value="RELAY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1160" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-76" value="ENTRIES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1180" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-77" value="ENTRY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1200" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-78" value="RELAYPOSITIONS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1220" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-79" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Entry for one event/round.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1200" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-80" value="RELAYPOSITION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1240" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-81" value="RESULTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1280" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-82" value="RESULT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1300" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-83" value="RELAYPOSITIONS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1320" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-84" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Result for one event/round.&lt;br/&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1300" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-85" value="MEETINFO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1260" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-86" value="RELAYPOSITION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1340" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-87" value="SPLITS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1360" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-88" value="RECORDLISTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1530" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-89" value="Data of one record list (type, gender, course)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1550" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-90" value="3.5. Sub tree RECORDLISTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1420" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-91" value="The sub tree RECORDLISTS is used to define all kind of records. One record list contains all records of a&lt;br/&gt;specific type (e.g. world records), gender and pool length (course). In this sub tree, the information about the&lt;br/&gt;athletes is represented by means of complete ATHLETE objects, and not just as a reference to some other&lt;br/&gt;sub tree." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1460" width="660" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-92" value="RECORDLIST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1550" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-93" value="AGEGROUP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1570" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-94" value="RECORD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1610" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-95" value="SWIMSTYLE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1630" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-96" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Data of one record (individual or relay)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1610" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-97" value="RELAYPOSITION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1710" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-100" value="MEETINFO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1750" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-102" value="ATHLETE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1730" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-104" value="SPLITS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1770" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-105" value="RECORDS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1590" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-106" value="ATHLETE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1650" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-107" value="RELAY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1670" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-108" value="RELAYPOSITIONS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1690" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-110" value="TIMESTANDARDLISTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1900" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-111" value="Time standards (type, gender, course)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1920" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-112" value="3.6. Sub tree TIMESTANDARDLISTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1830" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-113" value="The sub tree TIMESTANDARDLISTS is used to define time standards and qualification times." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1870" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-114" value="TIMESTANDARDLIST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1920" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-115" value="TIMESTANDARDS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1940" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-116" value="SWIMSTYLE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1980" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-118" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Data of one time standard / qual. time&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1960" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSQmjL1IiymvAM0oykPz-123" value="TIMESTANDARD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1960" width="300" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
