@@ -1,15 +1,13 @@
-# Используемые технологии и плагины
-## Используемые технологии
+# Used technologies and plugins
+## Used technologies
 * Python
-* ddd
-
 
 ## Chrome
-- lighthouse - средство для анализа производительности web-страниц
+- Lighthouse - an open-source, automated tool for improving the performance, quality, and correctness of your web apps. 
 
 https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=ru
 
-## Общее
+## Common
 - MarkDown
 
 https://github.com/Buterbrod/Swimming-open/new/main/docs
