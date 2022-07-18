@@ -11,3 +11,16 @@ https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjp
 - MarkDown
 
 https://github.com/Buterbrod/Swimming-open/new/main/docs
+
+# DB Tools
+
+DBeaver Community - Free Universal Database Tool  
+https://dbeaver.io
+
+## SQLite DB
+
+SQLiteStudio  
+https://sqlitestudio.pl
+
+DB Browser for SQLite  
+https://sqlitebrowser.org
