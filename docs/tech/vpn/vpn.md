@@ -10,10 +10,14 @@
 [Реализация](#реализация)  
 
 # Варианты решений
-## OpenVPN
-https://openvpn.net
-## WireGuard
-https://www.wireguard.com
+## Прошивка роутеров
+- [OpenWrt](https://openwrt.org)   
+  Список поддерживаемого оборудования один из замых больших
+- [DD-WRT](https://dd-wrt.com)
+- [libreCMC](https://www.librecmc.org)
+## Протоколы
+- [OpenVPN](https://openvpn.net)
+- [WireGuard](https://www.wireguard.com)
 
 # Исходные данные
 ## Mi Router 4A Gigabit Edition
@@ -33,6 +37,7 @@ https://www.mi.com/ru/product/mi-router-4a-gigabit-edition
   - Сеть 5 ГГц поддерживает код с низкой плотностью проверок на четкость (LDPC) для коррекции ошибок
 
 # Решение
+![Альтернативный текст](./OpenVPN.jpg)  
 Поднять VPN на роутере (и компьютере)  
 Поддержать фиксированный IP адрес  
 Добавить уведомления при несанкционированном доступе к сети  
@@ -160,8 +165,25 @@ https://www.mi.com/ru/product/mi-router-4a-gigabit-edition
        - login: root/root
    15. Всё, вы в оболочке LUCI
    16. Если что-то пошло не так, то надо делать Debrick  
-       https://youtu.be/VxzEvdDWU_s?t=266
+       https://youtu.be/VxzEvdDWU_s?t=266  
+       https://www.linux.org.ru/forum/admin/12346954
    17. Меняем пароль
        - Меню: System -> Administration
        - Router Password
-4. 
+4. Настраиваем статический IP
+   1. В qwerty статический IP даётся по сетевому имени (host name)  
+      Для одного компьютера с постоянным IP - сетевое имя должно быть QWERTY1, для второго - QWERTY2, и так далее
+   2. Заходим на роутер (LuCI)
+      - меню: System -> System
+      - Hostname: QWERTY1
+   3. Делаем перезагрузку роутера
+      - меню: System -> Reboot
+   4. Проверяем адрес извне - должен совпадать с выданным
+      - https://2ip.ru/privacy
+      - https://yandex.ru/internet
+4. Ставим OpenVPN сервер на OpenWrt
+   1. Документация
+      - [OpenVPN server](https://openwrt.org/docs/guide-user/services/vpn/openvpn/server)
+   2. Скачиваем пакеты OpenWrt
+      - [openvpn-openssl](https://openwrt.org/packages/pkgdata/openvpn-openssl)
+      - [openvpn-easy-rsa](https://openwrt.org/packages/pkgdata/openvpn-easy-rsa)
