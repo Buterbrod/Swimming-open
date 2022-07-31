@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-07-31T11:22:35.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.2" etag="3WIE9NdnbdVRMGU8_Ij0" type="github"><diagram id="X9TBY-t8uwUlQwRiKInS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-31T17:15:35.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QdZf1ua-DnTDodPjaWSq" version="20.2.2" type="github">
+  <diagram id="X9TBY-t8uwUlQwRiKInS" name="Страница 1">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_bI6zeq7vTZDtqMB2bXe-1" value="JSON Web Key&lt;br&gt;(JWK)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_bI6zeq7vTZDtqMB2bXe-2" value="JSON Web Token&lt;br&gt;(JWT)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="10" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_bI6zeq7vTZDtqMB2bXe-3" value="JSON Web Encryption&lt;br&gt;(JWE)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_bI6zeq7vTZDtqMB2bXe-4" value="JSON Web Signature&lt;br&gt;(JWS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_bI6zeq7vTZDtqMB2bXe-5" value="JSON Web Algorithms&lt;br&gt;(JWA)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
